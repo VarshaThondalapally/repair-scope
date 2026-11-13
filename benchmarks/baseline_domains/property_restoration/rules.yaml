@@ -1,0 +1,102 @@
+# INVENTED DATA: example completeness rules for the made-up property_restoration catalog.
+# A real company would have someone from the trade write and own this file.
+#
+# Each rule: when a selected line matches `when`, a line matching `require`
+# must also be in the set. Condition keys (all optional, all must hold):
+#   code, section, description_any, description_none
+rules:
+  - name: Wet demolition needs moisture readings first
+    reason: Wet material is only removed after meter readings show how far the water went, and those readings justify the cut line.
+    when:
+      section: Demolition & Removal
+      description_any: [wet]
+    require:
+      code: PRS-0102
+
+  - name: Extraction is followed by air movers
+    reason: Pulling the water out is only the first step; the structure still has to be dried with air movement.
+    when:
+      section: Water Extraction
+    require:
+      code: PRS-0301
+
+  - name: Extraction is followed by a dehumidifier
+    reason: Air movers put the moisture into the air and a dehumidifier has to take it out again.
+    when:
+      section: Water Extraction
+    require:
+      code: PRS-0302
+
+  - name: Drying equipment needs daily monitoring
+    reason: Equipment left running is checked every day, and the readings from those visits are what show the job is drying.
+    when:
+      section: Drying Equipment
+      description_any: [set up]
+    require:
+      code: PRS-0104
+
+  - name: Opened wall and ceiling cavities get antimicrobial
+    reason: Framing that sat behind wet drywall or insulation is treated before anything is closed up again.
+    when:
+      description_any: [wet drywall, wet insulation, wet ceiling drywall]
+    require:
+      code: PRS-0501
+
+  - name: Removal produces debris to haul away
+    reason: Anything torn out has to be bagged and taken off site, and that is its own line.
+    when:
+      section: Demolition & Removal
+      description_any: [remove]
+    require:
+      code: PRS-0408
+
+  - name: Mold work needs containment
+    reason: Disturbing mold without a barrier spreads spores into the clean part of the building.
+    when:
+      section: Mold Remediation
+    require:
+      code: PRS-0701
+
+  - name: Mold work needs negative air
+    reason: The contained area is kept under negative pressure with filtered exhaust for as long as mold is being disturbed.
+    when:
+      section: Mold Remediation
+    require:
+      code: PRS-0702
+
+  - name: Mold removal ends with a clearance inspection
+    reason: Removal is not finished until someone has inspected and cleared the area.
+    when:
+      section: Mold Remediation
+      description_any: [remove, wire brush]
+    require:
+      code: PRS-0105
+
+  - name: Sewage work needs protective equipment
+    reason: Contaminated water is never handled without protective equipment.
+    when:
+      description_any: [sewage]
+    require:
+      code: PRS-0704
+
+  - name: Sewage work needs disinfecting afterwards
+    reason: Surfaces touched by sewage are cleaned and disinfected once the water is out.
+    when:
+      description_any: [sewage]
+    require:
+      code: PRS-0502
+
+  - name: New drywall must be taped and finished
+    reason: Hanging board without finishing the joints is not a completed wall.
+    when:
+      description_any: [hang replacement drywall]
+    require:
+      code: PRS-1002
+
+  - name: Smoke stains are cleaned before they are sealed
+    reason: Primer over loose soot fails, so the surface is cleaned first.
+    when:
+      description_any: [odor blocking primer]
+    require:
+      section: Fire & Smoke
+      description_any: [dry sponge soot, wet clean smoke residue]

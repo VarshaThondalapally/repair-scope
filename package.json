@@ -1,0 +1,1 @@
+{"name":"repair-scope","version":"2.1.0","private":true,"type":"module","scripts":{"test":"node --test tests/web-engine.test.mjs tests/draft.test.mjs","test:browser":"playwright test","build":"python tools/build_web.py"},"devDependencies":{"@playwright/test":"1.56.1"}}

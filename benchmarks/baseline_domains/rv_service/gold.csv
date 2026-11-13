@@ -1,0 +1,38 @@
+finding,expected_codes,expected_companions
+"W/H won't light on propane, no spark at the electrode, swapped electrode and it fires",RVS-0301,RVS-0101
+"water heater tank full of scale, anode eaten away down to the wire",RVS-0305,
+"furnace fan runs but no heat, clicks 3 times then locks out, bad ignitor",RVS-0401,RVS-0101
+"furnace blower squealing loud, bearings shot in the motor",RVS-0403,
+"heater will not come on at all, sail switch stuck open",RVS-0402,RVS-0101
+"thermostat display blank, t-stat dead",RVS-0405,
+"roof a/c hums but compressor won't kick on, start cap swollen",RVS-0501,RVS-0106;RVS-0505
+"AC blowing warm, coils packed with dirt and cottonwood",RVS-0503,
+"water dripping inside from the roof air unit when it rains, gasket flattened",RVS-0504,RVS-0906
+"fridge not cooling on LP, flame yellow and sooty, burner rusted out",RVS-0601,RVS-0201
+"reefer door not sealing, dollar bill slides right out, gasket torn",RVS-0603,
+"fridge dead on both gas and electric, no lights on the panel, board has a burnt trace",RVS-0602,RVS-0101
+"strong gas smell at the bottles, regulator hissing",RVS-0202,RVS-0201
+"propane hose from tank to regulator cracked and dry rotted",RVS-0203,RVS-0201
+"LP alarm beeping nonstop with tanks shut off, unit past its expiration date",RVS-0204,
+"water pump runs constantly and won't build pressure, diaphragm gone",RVS-0701,RVS-0705
+"puddle under kitchen sink, pex elbow split from freezing",RVS-0702,RVS-0705
+"bathroom tap drips constantly, handle stripped",RVS-0703,RVS-0705
+"water runs back out the city fill when the pump is on",RVS-0704,RVS-0705
+"toilet rocks and leaks at the base when flushed",RVS-0706,
+"black tank handle pulls but valve won't close all the way, drips at the cap",RVS-0801,
+"black tank will not drain, backed up solid",RVS-0803,
+"water stain on ceiling near roof vent, sealant around the vent cracked and lifting",RVS-0901,RVS-0906
+"front cap seam sealant split open about 3 ft, daylight visible",RVS-0902,RVS-0906
+"branch tore a 6 inch gash in the rubber roof",RVS-0903,RVS-0906
+"rear window leaking at top corner, old caulk dried out",RVS-0905,RVS-0906
+"bedroom slide goes out crooked, one side lags behind",RVS-1002,
+"main slide won't move, motor hums then nothing, gearbox motor burnt",RVS-1001,RVS-1002
+"coach batteries won't hold charge, load test failed",RVS-1101,
+"batteries not charging when plugged in, converter output 0 volts",RVS-1102,RVS-0102
+"shore cord plug-in on side of coach melted and burnt",RVS-1105,
+"power awning won't extend, motor dead, tested with direct 12v",RVS-1203,
+"wheel bearings dry and noisy on curb side rear",RVS-1301,RVS-1305
+"trailer brakes weak, magnets worn through on left front",RVS-1302,RVS-1305
+"floor soft and spongy in front of the shower",RVS-1402,RVS-0104
+"sidewall bubbling below the window, fiberglass skin letting go",RVS-1403,RVS-0104
+"ceiling panel sagging and brown above the bed after rain",RVS-1401,RVS-0104

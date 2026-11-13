@@ -1,0 +1,39 @@
+finding,expected_codes,expected_companions
+"kitchen floor has about an inch of water sitting on the tile from a supply line break",PRS-0201,PRS-0301;PRS-0302
+"living room carpet squishes underfoot, soaked through to the cushion",PRS-0202,PRS-0301;PRS-0302
+"cellar has two feet of water after the sump failed",PRS-0203,PRS-0301;PRS-0302
+"toilet overflowed with solids, black water across the bathroom floor",PRS-0204,PRS-0704;PRS-0502;PRS-0301;PRS-0302
+"sheetrock wet up to 14 inches along the north wall, wicking",PRS-0401,PRS-0102;PRS-0501;PRS-0408
+"batts behind the wall are saturated and slumping",PRS-0402,PRS-0102;PRS-0501;PRS-0408
+"base trim swollen and pulling off the wall in the hallway",PRS-0403,PRS-0408
+"carpet cushion is waterlogged, can't be saved",PRS-0404,PRS-0102;PRS-0408
+"carpet coming apart from its backing after sitting wet for days, not salvageable",PRS-0405,PRS-0408
+"vinyl plank cupped and lifting at the seams in the kitchen",PRS-0406,PRS-0408
+"ceiling sheetrock sagging and dripping below the upstairs bath",PRS-0407,PRS-0102;PRS-0501;PRS-0408
+"need to pull the commode to get the flooring up",PRS-0409,
+"studs exposed after the flood cut need treating before close up",PRS-0501,
+"fuzzy green growth on drywall behind the washer, about 10 sq ft",PRS-0601,PRS-0701;PRS-0702;PRS-0105
+"mildew spotting on the floor joists in the crawl space, needs sanding off",PRS-0603,PRS-0701;PRS-0702;PRS-0105
+"treated studs need a sealing coat after the mold cleaning",PRS-0604,PRS-0701;PRS-0702
+"need plastic walls up around the work area to keep spores out of the rest of the house",PRS-0701,
+"need an air scrubber running under negative pressure in the contained room",PRS-0702,
+"black film on walls and ceiling of the room next to the kitchen fire",PRS-0801,
+"greasy smoke film on kitchen counters and cabinets",PRS-0802,
+"whole house smells like smoke after the fire, needs fogging",PRS-0803,
+"yellow smoke stains bleeding through on the ceiling, needs stain blocker before paint",PRS-0804,PRS-0801
+"rafters burned deep in the attic above the kitchen",PRS-0805,PRS-0408
+"soot blowing out of the registers when the furnace kicks on",PRS-0806,
+"everything in the family room needs boxing up and moving to storage with a list",PRS-0901,
+"sofa and dresser sitting on wet carpet, need lifting onto blocks",PRS-0902,
+"new sheetrock needed on the lower 2 ft of the hallway wall",PRS-1001,PRS-1002
+"wall patches are finished and sanded, ready for primer and two coats",PRS-1003,
+"popcorn ceiling needs matching where the patch was made",PRS-1006,
+"new underlay needed in the bedroom before the carpet goes back",PRS-1101,PRS-1102
+"oak floor cupped but dry now, needs sanding and a new finish",PRS-1104,
+"shingles blown off the back slope, rain coming into the attic, needs covering tonight",PRS-1201,
+"front picture window smashed out by a branch, opening needs securing",PRS-1202,
+"large oak limb resting on the garage roof",PRS-1203,
+"wall feels dry to the touch but suspect water behind it, need the infrared camera",PRS-0103,
+"hardwood in the dining room still reading wet under the surface, needs the suction panels",PRS-0304,PRS-0104
+"drying gear has been running 4 days, readings at goal, pick up the fans and dehus",PRS-0305,PRS-0106
+"water got inside the wall cavity behind the kitchen cabinets, don't want to cut the wall open",PRS-0303,PRS-0104

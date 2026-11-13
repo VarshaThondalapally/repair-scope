@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+out/
+dist/
+.venv/
+node_modules/
+NOTES_FOR_OWNER.md
+*.log
+test-results/
+playwright-report/
+.env
+.env.*
+!.env.example

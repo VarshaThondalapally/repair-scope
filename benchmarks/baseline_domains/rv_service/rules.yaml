@@ -1,0 +1,93 @@
+# INVENTED DATA: example completeness rules for the made-up rv_service catalog.
+# A real shop would have someone from the trade write and own this file.
+#
+# Each rule: when a selected line matches `when`, a line matching `require`
+# must also be in the set. Condition keys (all optional, all must hold):
+#   code, section, description_any, description_none
+rules:
+  - name: LP work needs a leak-down test
+    reason: Whenever an LP line or fitting has been opened, the system is leak tested before the unit goes back to the customer.
+    when:
+      section: LP Gas System
+      description_any: [replace]
+      description_none: [alarm]
+    require:
+      code: RVS-0201
+
+  - name: Gas-side appliance parts need a leak-down test
+    reason: Burners and gas valves sit on the LP side of an appliance, so replacing or cleaning them opens the gas path.
+    when:
+      description_any: [gas valve, burner]
+    require:
+      code: RVS-0201
+
+  - name: Appliance electronics need a diagnosis line
+    reason: An igniter, board or sail switch is only replaced after the fault has been traced to it, and that tracing time is billed as its own line.
+    when:
+      section: [Water Heater, Furnace & Heating, Refrigerator]
+      description_any: [control board, igniter, sail switch]
+    require:
+      code: RVS-0101
+
+  - name: Roof and seam sealing needs a pressurized leak test
+    reason: New sealant is proven with a pressurized leak test, otherwise the same leak comes back as a second visit.
+    when:
+      section: Roof & Sealants
+      description_any: [reseal, patch]
+    require:
+      code: RVS-0906
+
+  - name: Water damage repair needs the leak source found
+    reason: Replacing wet material without locating where the water got in repairs the symptom and not the cause.
+    when:
+      description_any: [water damaged, soft subfloor, delaminated]
+    require:
+      code: RVS-0104
+
+  - name: Opened water lines need a pressure test
+    reason: Any fresh water part that was disconnected is pressure tested before the cabinets are closed up.
+    when:
+      section: Fresh Water & Plumbing
+      description_any: [pump, fitting, faucet, check valve]
+    require:
+      section: Fresh Water & Plumbing
+      description_any: [pressure test]
+
+  - name: Wheels off means lug nuts torqued and recorded
+    reason: Bearing and brake work takes the wheels off, and the torque value has to be written down when they go back on.
+    when:
+      description_any: [wheel bearing, brake assembly]
+    require:
+      code: RVS-1305
+
+  - name: Slide-out drive parts need the travel re-synchronized
+    reason: A new drive motor leaves the room out of time with the other side until the travel is adjusted.
+    when:
+      section: Slide-Out
+      description_any: [drive motor]
+    require:
+      description_any: [synchronize]
+
+  - name: AC electrical parts need a cooling diagnosis
+    reason: A capacitor or fan motor is replaced only after the cooling fault has been traced to it.
+    when:
+      section: Air Conditioning
+      description_any: [capacitor, fan motor]
+    require:
+      code: RVS-0106
+
+  - name: AC electrical parts need a performance test
+    reason: After the part is replaced the temperature split is measured to show the unit actually cools.
+    when:
+      section: Air Conditioning
+      description_any: [capacitor, fan motor]
+    require:
+      code: RVS-0505
+
+  - name: Converter replacement needs a 12 volt diagnosis
+    reason: Charging faults are often wiring or battery faults, so the converter is replaced only after the 12 volt side is diagnosed.
+    when:
+      section: Electrical
+      description_any: [converter]
+    require:
+      code: RVS-0102

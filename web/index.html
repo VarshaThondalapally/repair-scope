@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="An independent inspection-to-catalog review demo. Match findings, inspect evidence, check companion lines, and export a reviewed repair-order draft.">
+<title>RepairScope · Inspection to reviewed draft</title>
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="styles.css">
+<script type="module" src="app.js"></script>
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="./" aria-label="RepairScope home"><span class="brand-icon">rs</span><span>RepairScope<span class="version"> / 02</span></span></a>
+  <div class="top-meta"><span class="status-dot"></span> Runs in your browser <a href="evaluation.html">Evaluation ↗</a></div>
+</header>
+<main>
+  <section class="intro">
+    <div><p class="eyebrow">FROM FIELD NOTES TO REVIEWED WORK</p><h1>Find the line.<br><span>Keep the judgment.</span></h1>
+    <p class="intro-text">Turn an inspection finding into catalog suggestions. Check the evidence and companion work before approving a repair-order draft.</p></div>
+    <aside class="intro-note"><span class="note-number">01 — 03</span><p>Record a finding.<br>Review the matches.<br>Approve the draft.</p><span class="muted">No automatic billing decisions.</span></aside>
+  </section>
+  <div class="notice"><strong>Independent portfolio demo.</strong> Bundled codes, hours, and rules are invented examples. Not affiliated with vinny; no OEM mapping, warranty approval, or DMS integration is claimed.</div>
+  <div class="workspace">
+    <aside class="sidebar">
+      <section class="panel">
+        <p class="eyebrow">WORKSPACE</p>
+        <label for="job">Job / unit reference <span class="optional">optional</span></label>
+        <input id="job" maxlength="100" placeholder="e.g. Demo unit 204">
+        <label for="domain">Code catalog</label>
+        <select id="domain"><option value="rv_service">RV service · sample</option><option value="property_restoration">Property restoration · sample</option><option id="uploadedOption" value="uploaded" hidden>Uploaded catalog</option></select>
+        <div id="catalogInfo" class="catalog-info"></div>
+        <label class="upload-button" for="upload">↑ Load your catalog CSV</label>
+        <input class="file-input" type="file" id="upload" accept=".csv,text/csv" aria-label="Upload catalog CSV">
+        <details><summary>CSV format & privacy</summary><p>Columns: <code>code, section, description, hours</code>. Up to 1,000 rows / 1 MB. Your custom catalog has no companion rules. Uploaded data and findings stay in this tab; nothing is saved or sent to a server. Reloading clears your work.</p><a href="sample_catalog.csv" download>Download a sample CSV</a></details>
+      </section>
+      <section class="panel findings-panel">
+        <div class="section-heading"><p class="eyebrow">FINDINGS</p><button id="newFinding" class="icon-button" aria-label="Add a finding">+</button></div>
+        <div id="findingList"></div>
+        <p class="small muted">One issue per finding. Approvals remain attached to the exact note and codes you reviewed.</p>
+      </section>
+      <section class="panel export-panel">
+        <p class="eyebrow">REVIEWED DRAFT</p><div id="approvedCount" class="export-count">0 findings approved</div>
+        <button id="exportCsv" class="primary full" disabled>Download draft CSV ↓</button>
+        <button id="exportAudit" class="secondary full" disabled>Download review record JSON</button>
+        <p class="small muted">Only approved findings are included. These are portable demo files, not a native DMS import.</p>
+      </section>
+    </aside>
+    <div class="main-column">
+      <section class="panel capture">
+        <div class="section-heading"><p class="eyebrow"><span class="step">1</span> CAPTURE THE FINDING</p><span id="itemStatus" class="badge">Draft</span></div>
+        <label for="finding" class="finding-label">What did the technician find?</label>
+        <textarea id="finding" maxlength="2000" placeholder="Describe the component, what happened, and any confirmed cause."></textarea>
+        <div class="examples"><span>Try a case:</span><button data-example="clear">Clear match</button><button data-example="unclear">Unclear symptom</button><button data-example="companion">Companion work</button><button data-example="typo">Spelling variant</button></div>
+        <p id="scenarioHint" class="small muted" hidden></p>
+        <div class="match-controls"><div><label for="strategy">Retrieval</label><select id="strategy"><option value="hybrid">BM25 + phrases + typo repair</option><option value="bm25">Corrected BM25 + aliases</option></select></div><button id="matchBtn" class="primary">Find catalog lines <span>→</span></button></div>
+        <p class="small muted">Ctrl / ⌘ + Enter to match. Relevance scores compare text; they are not probabilities.</p>
+      </section>
+      <div id="messages" role="status" aria-live="polite"></div>
+      <section id="resultsPanel" class="panel">
+        <div class="section-heading"><p class="eyebrow"><span class="step">2</span> INSPECT THE EVIDENCE</p><span id="timing" class="small muted"></span></div>
+        <div id="questions"></div><div id="verdict" class="muted"></div>
+        <div id="candidates" class="candidates"><div class="empty"><span class="empty-icon">⌕</span><h2>Your findings, grounded in a catalog.</h2><p>Choose a sample case or enter a finding to see suggested lines and the words behind them.</p></div></div>
+        <details class="manual-details"><summary>Find a catalog code manually</summary><label for="manualSearch">Search by code or description</label><input id="manualSearch" maxlength="100" placeholder="e.g. RVS-0703 or faucet"><div id="manualResults"></div></details>
+      </section>
+      <section class="panel review">
+        <div class="section-heading"><p class="eyebrow"><span class="step">3</span> REVIEW & APPROVE</p><span id="selectedCount" class="small muted">0 lines selected</span></div>
+        <div id="selected"></div><div id="completeness"></div>
+        <div id="overrideArea" hidden><label for="overrideReason">Reason for proceeding with unmet rules</label><textarea id="overrideReason" maxlength="1000" placeholder="Document why the example rule does not apply, or why this draft is intentionally incomplete."></textarea></div>
+        <div class="approval-fields"><div><label for="reviewer">Reviewer name</label><input id="reviewer" maxlength="100" placeholder="Your name"></div><label class="confirm-label"><input type="checkbox" id="confirmed"> I reviewed the repair scope, selected lines, and applicable companion work.</label></div>
+        <div class="approve-row"><button id="approveBtn" class="primary" disabled>Approve this finding</button><span id="approvalNote" class="small muted">Select lines to prepare a reviewed draft.</span></div>
+      </section>
+      <section class="method-note"><h2>What this demo proves</h2><p>Catalog-constrained retrieval, visible matching evidence, a review workflow, and traceable exports. The bundled evaluation is synthetic and was used during development. It does not establish real-world accuracy. The engine is lexical retrieval; it does not use an LLM or diagnose failures.</p><a href="evaluation.html">Read the evaluation & limitations ↗</a></section>
+    </div>
+  </div>
+</main>
+<footer><span>RepairScope · Built with AI assistance</span><span>Independent work sample · v2.1</span></footer>
+<dialog id="catalogDialog" aria-labelledby="catalogDialogTitle">
+  <h2 id="catalogDialogTitle">Start a new catalog draft?</h2>
+  <p>Changing catalogs clears the current findings and approvals. Download reviewed work before continuing.</p>
+  <div class="dialog-actions"><button id="cancelCatalog" class="secondary">Keep current draft</button><button id="confirmCatalog" class="primary">Start new draft</button></div>
+</dialog>
+</body>
+</html>

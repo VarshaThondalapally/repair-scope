@@ -1,0 +1,83 @@
+{
+  "dataset": "Original synthetic development set; not held out",
+  "independent_validation": false,
+  "current_automatic_exports": 0,
+  "results": [
+    {
+      "domain": "property_restoration",
+      "strategy": "original",
+      "cases": 38,
+      "top1": 23,
+      "top3": 30,
+      "clear_suggestions": 24,
+      "clear_wrong": 6,
+      "rules_caught": 18,
+      "rule_cases": 21,
+      "median_ms": 0.419
+    },
+    {
+      "domain": "property_restoration",
+      "strategy": "corrected_bm25",
+      "cases": 38,
+      "top1": 24,
+      "top3": 31,
+      "clear_suggestions": 24,
+      "clear_wrong": 6,
+      "rules_caught": 18,
+      "rule_cases": 21,
+      "median_ms": 0.681
+    },
+    {
+      "domain": "property_restoration",
+      "strategy": "hybrid",
+      "cases": 38,
+      "top1": 24,
+      "top3": 31,
+      "clear_suggestions": 24,
+      "clear_wrong": 6,
+      "rules_caught": 18,
+      "rule_cases": 21,
+      "median_ms": 3.815
+    },
+    {
+      "domain": "rv_service",
+      "strategy": "original",
+      "cases": 37,
+      "top1": 28,
+      "top3": 35,
+      "clear_suggestions": 24,
+      "clear_wrong": 2,
+      "rules_caught": 23,
+      "rule_cases": 24,
+      "median_ms": 0.426
+    },
+    {
+      "domain": "rv_service",
+      "strategy": "corrected_bm25",
+      "cases": 37,
+      "top1": 31,
+      "top3": 36,
+      "clear_suggestions": 25,
+      "clear_wrong": 1,
+      "rules_caught": 23,
+      "rule_cases": 24,
+      "median_ms": 0.728
+    },
+    {
+      "domain": "rv_service",
+      "strategy": "hybrid",
+      "cases": 37,
+      "top1": 31,
+      "top3": 36,
+      "clear_suggestions": 24,
+      "clear_wrong": 0,
+      "rules_caught": 23,
+      "rule_cases": 24,
+      "median_ms": 3.69
+    }
+  ],
+  "gold_sha256": {
+    "property_restoration": "2bbcf5bd6fdcf64de4c31ab85f1783761178d4b51f9462e288e454ddfd69e99d",
+    "rv_service": "97e644b09c04a932e42e9d001dbf1166741373aa0dfdd686fa32f334c4f8a7ef"
+  }
+}

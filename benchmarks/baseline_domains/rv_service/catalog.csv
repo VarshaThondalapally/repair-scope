@@ -1,0 +1,71 @@
+# INVENTED DATA. Every code, description and hour figure in this file was made up for this project. It is not copied from, or modelled on, any real flat-rate manual or estimating product.
+code,section,description,hours
+RVS-0101,Diagnosis & Inspection,Diagnose LP appliance fault,0.5
+RVS-0102,Diagnosis & Inspection,Diagnose 12 volt electrical fault,0.8
+RVS-0103,Diagnosis & Inspection,Diagnose 120 volt shore power fault,0.8
+RVS-0104,Diagnosis & Inspection,Locate source of water intrusion,1.0
+RVS-0105,Diagnosis & Inspection,Diagnose slide-out operation fault,0.7
+RVS-0106,Diagnosis & Inspection,Diagnose air conditioner cooling fault,0.6
+RVS-0201,LP Gas System,LP system leak-down test with manometer,0.4
+RVS-0202,LP Gas System,Replace LP regulator,0.5
+RVS-0203,LP Gas System,Replace LP supply hose (pigtail),0.3
+RVS-0204,LP Gas System,Replace LP leak detector alarm,0.4
+RVS-0205,LP Gas System,Replace range burner valve,0.7
+RVS-0301,Water Heater,Replace water heater igniter electrode,0.5
+RVS-0302,Water Heater,Replace water heater control board,0.6
+RVS-0303,Water Heater,Replace water heater gas valve,0.8
+RVS-0304,Water Heater,Replace water heater electric heating element,0.7
+RVS-0305,Water Heater,Flush water heater tank and replace anode rod,0.6
+RVS-0306,Water Heater,Clean water heater burner tube and orifice,0.5
+RVS-0401,Furnace & Heating,Replace furnace igniter,0.8
+RVS-0402,Furnace & Heating,Replace furnace sail switch,0.9
+RVS-0403,Furnace & Heating,Replace furnace blower motor,1.5
+RVS-0404,Furnace & Heating,Replace furnace control board,0.7
+RVS-0405,Furnace & Heating,Replace wall thermostat,0.4
+RVS-0501,Air Conditioning,Replace roof air conditioner start capacitor,0.5
+RVS-0502,Air Conditioning,Replace roof air conditioner fan motor,1.6
+RVS-0503,Air Conditioning,Clean air conditioner evaporator and condenser coils,0.8
+RVS-0504,Air Conditioning,Replace roof air conditioner mounting gasket,1.0
+RVS-0505,Air Conditioning,Air conditioner temperature split performance test,0.3
+RVS-0601,Refrigerator,Replace refrigerator burner assembly,0.9
+RVS-0602,Refrigerator,Replace refrigerator control board,0.7
+RVS-0603,Refrigerator,Replace refrigerator door seal,0.6
+RVS-0604,Refrigerator,Replace refrigerator cooling unit,4.5
+RVS-0701,Fresh Water & Plumbing,Replace fresh water pump,0.7
+RVS-0702,Fresh Water & Plumbing,Replace water line fitting,0.4
+RVS-0703,Fresh Water & Plumbing,Replace faucet,0.6
+RVS-0704,Fresh Water & Plumbing,Replace city water inlet check valve,0.5
+RVS-0705,Fresh Water & Plumbing,Pressure test fresh water system,0.4
+RVS-0706,Fresh Water & Plumbing,Replace toilet floor flange seal,0.9
+RVS-0801,Waste System,Replace waste tank dump valve,1.0
+RVS-0802,Waste System,Replace holding tank level sensor,0.8
+RVS-0803,Waste System,Clear blocked waste tank drain,1.2
+RVS-0901,Roof & Sealants,Reseal roof vent flange,0.8
+RVS-0902,Roof & Sealants,Reseal roof front or rear seam,1.5
+RVS-0903,Roof & Sealants,Patch roof membrane tear,0.9
+RVS-0904,Roof & Sealants,Replace roof vent lid,0.4
+RVS-0905,Roof & Sealants,Reseal window frame,0.9
+RVS-0906,Roof & Sealants,Pressurized leak test of roof and body seams,1.0
+RVS-1001,Slide-Out,Replace slide-out drive motor,1.8
+RVS-1002,Slide-Out,Adjust and synchronize slide-out travel,1.0
+RVS-1003,Slide-Out,Replace slide-out wiper seal,1.4
+RVS-1101,Electrical,Replace house battery,0.4
+RVS-1102,Electrical,Replace power converter charger,1.0
+RVS-1103,Electrical,Replace blown fuse and inspect circuit,0.3
+RVS-1104,Electrical,Replace GFCI outlet,0.4
+RVS-1105,Electrical,Replace shore power inlet,0.8
+RVS-1106,Electrical,Replace interior light fixture,0.3
+RVS-1201,Awning,Replace awning fabric,2.0
+RVS-1202,Awning,Replace awning arm,1.2
+RVS-1203,Awning,Replace awning motor,1.3
+RVS-1301,Chassis & Running Gear,Repack wheel bearings (per axle),1.5
+RVS-1302,Chassis & Running Gear,Replace electric brake assembly,1.0
+RVS-1303,Chassis & Running Gear,Adjust electric brakes,0.5
+RVS-1304,Chassis & Running Gear,Replace leaf spring shackle,1.1
+RVS-1305,Chassis & Running Gear,Torque wheel lug nuts and record,0.2
+RVS-1306,Chassis & Running Gear,Replace breakaway switch,0.4
+RVS-1401,Interior & Body,Replace water damaged ceiling panel,2.5
+RVS-1402,Interior & Body,Replace soft subfloor section,3.5
+RVS-1403,Interior & Body,Repair delaminated sidewall section,4.0
+RVS-1404,Interior & Body,Replace cabinet door hinge,0.3
+RVS-1405,Interior & Body,Replace entry door latch,0.5

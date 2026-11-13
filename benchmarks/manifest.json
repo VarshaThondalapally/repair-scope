@@ -1,0 +1,14 @@
+{
+  "baseline_domains/property_restoration/catalog.csv": "66fd9b31c6fabe53ab1ec045c7c705a4584e944e1ea0965238a8b824087b1e36",
+  "baseline_domains/property_restoration/gold.csv": "2bbcf5bd6fdcf64de4c31ab85f1783761178d4b51f9462e288e454ddfd69e99d",
+  "baseline_domains/property_restoration/README.md": "3676769ae40ec9d0591a260aadab7d463443945a39d478b35e1c762acb015999",
+  "baseline_domains/property_restoration/rules.yaml": "a8daf342ebade670dbe7b0714276d0a93ddec009400c484fcf61db336cc5300d",
+  "baseline_domains/property_restoration/synonyms.yaml": "ece30993a384fd8e07d5645a1f45a39842c32dba76ab2ba69bf0a7432d37c35e",
+  "baseline_domains/rv_service/catalog.csv": "85e5f5d4e3608ae8857616b1b15fb0dcb864081b03779f9aa213b39e35585d1a",
+  "baseline_domains/rv_service/gold.csv": "97e644b09c04a932e42e9d001dbf1166741373aa0dfdd686fa32f334c4f8a7ef",
+  "baseline_domains/rv_service/README.md": "fd0fea67fb32fd7c7d3b38bcd9a65e7409b5bf75d6ef9229183ba2c0ab687b24",
+  "baseline_domains/rv_service/rules.yaml": "d7b54bb0bd7d6a61c7b703e2e4cdd03113e21c5eff2461f92af746fb0bb0813a",
+  "baseline_domains/rv_service/synonyms.yaml": "8130ca37e850b9216201be6d6d00ff24148784d2fb309d1a8ea8bdee20cc1424",
+  "BASELINE_EVAL.md": "f579250ea3b6a040d2ae35162eaceb564b39ee3b963c368a5e8eab6ba2369055",
+  "baseline_matcher.py": "de50aedf5a25436fef23080459f6f525919f09581ccfc266008ac1dbe613522e"
+}

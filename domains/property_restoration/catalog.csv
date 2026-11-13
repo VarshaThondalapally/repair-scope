@@ -1,0 +1,60 @@
+# INVENTED DATA. Every code, description and hour figure in this file was made up for this project. It is not copied from, or modelled on, any real price list or estimating product.
+code,section,description,hours
+PRS-0101,Assessment & Documentation,Initial loss inspection and photo documentation,1.0
+PRS-0102,Assessment & Documentation,Moisture mapping with meter readings,0.8
+PRS-0103,Assessment & Documentation,Thermal imaging scan for hidden moisture,0.6
+PRS-0104,Assessment & Documentation,Daily drying monitoring visit,0.5
+PRS-0105,Assessment & Documentation,Post-remediation clearance inspection,1.0
+PRS-0106,Assessment & Documentation,Final dry standard verification readings,0.5
+PRS-0201,Water Extraction,Extract standing water from hard floor,0.6
+PRS-0202,Water Extraction,Extract water from carpet and pad,0.9
+PRS-0203,Water Extraction,Pump out flooded basement or crawlspace,1.5
+PRS-0204,Water Extraction,Extract sewage contaminated water,1.4
+PRS-0301,Drying Equipment,Set up air movers,0.3
+PRS-0302,Drying Equipment,Set up dehumidifier,0.4
+PRS-0303,Drying Equipment,Set up wall cavity injection drying,1.0
+PRS-0304,Drying Equipment,Set up hardwood floor drying mats,1.2
+PRS-0305,Drying Equipment,Take down and load out drying equipment,0.5
+PRS-0401,Demolition & Removal,Remove wet drywall (flood cut),1.2
+PRS-0402,Demolition & Removal,Remove wet insulation,0.8
+PRS-0403,Demolition & Removal,Remove baseboard,0.4
+PRS-0404,Demolition & Removal,Remove wet carpet pad,0.7
+PRS-0405,Demolition & Removal,Remove non-salvageable carpet,0.9
+PRS-0406,Demolition & Removal,Remove damaged laminate or vinyl flooring,1.1
+PRS-0407,Demolition & Removal,Remove wet ceiling drywall,1.4
+PRS-0408,Demolition & Removal,Bag and haul away debris,0.7
+PRS-0409,Demolition & Removal,Detach and reset toilet,0.8
+PRS-0410,Demolition & Removal,Remove base cabinet toe kick,0.4
+PRS-0501,Antimicrobial & Cleaning,Apply antimicrobial to exposed framing,0.5
+PRS-0502,Antimicrobial & Cleaning,Clean and disinfect hard surfaces,0.8
+PRS-0503,Antimicrobial & Cleaning,Hot water extraction cleaning of carpet,1.0
+PRS-0601,Mold Remediation,Remove mold affected drywall,1.6
+PRS-0602,Mold Remediation,HEPA vacuum affected surfaces,0.8
+PRS-0603,Mold Remediation,Wire brush and sand mold from framing,1.5
+PRS-0604,Mold Remediation,Apply encapsulant sealer to treated framing,0.7
+PRS-0701,Containment & Safety,Build plastic containment barrier,1.2
+PRS-0702,Containment & Safety,Set up negative air machine with HEPA filter,0.5
+PRS-0703,Containment & Safety,Protect floors and contents with covering,0.5
+PRS-0704,Containment & Safety,Personal protective equipment for contaminated work,0.2
+PRS-0801,Fire & Smoke,Dry sponge soot from walls and ceiling,1.5
+PRS-0802,Fire & Smoke,Wet clean smoke residue from hard surfaces,1.3
+PRS-0803,Fire & Smoke,Thermal fog deodorization,0.8
+PRS-0804,Fire & Smoke,Seal smoke stained surfaces with odor blocking primer,1.4
+PRS-0805,Fire & Smoke,Remove charred framing member,1.8
+PRS-0806,Fire & Smoke,Clean ductwork of smoke residue,2.5
+PRS-0901,Contents,Pack out and inventory contents,2.0
+PRS-0902,Contents,Move furniture and block up on risers,0.6
+PRS-0903,Contents,Clean and deodorize salvageable contents,1.5
+PRS-1001,Drywall & Finish Repair,Hang replacement drywall,1.5
+PRS-1002,Drywall & Finish Repair,Tape and finish drywall joints,1.8
+PRS-1003,Drywall & Finish Repair,Prime and paint repaired wall,1.5
+PRS-1004,Drywall & Finish Repair,Install replacement insulation,0.7
+PRS-1005,Drywall & Finish Repair,Install replacement baseboard,0.6
+PRS-1006,Drywall & Finish Repair,Retexture ceiling to match,1.4
+PRS-1101,Flooring,Install replacement carpet pad,0.8
+PRS-1102,Flooring,Reinstall and stretch carpet,1.0
+PRS-1103,Flooring,Install replacement laminate flooring,2.2
+PRS-1104,Flooring,Sand and refinish hardwood floor,4.0
+PRS-1201,Roof & Exterior Temporary,Install emergency roof tarp,1.5
+PRS-1202,Roof & Exterior Temporary,Board up broken window or door opening,1.0
+PRS-1203,Roof & Exterior Temporary,Remove fallen tree limb from structure,2.0

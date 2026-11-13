@@ -1,0 +1,4124 @@
+[
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "kitchen floor has about an inch of water sitting on the tile from a supply line break",
+    "codes": [
+      "PRS-0201",
+      "PRS-0202",
+      "PRS-0204",
+      "PRS-1103",
+      "PRS-1104",
+      "PRS-1102",
+      "PRS-0203",
+      "PRS-0503",
+      "PRS-1101",
+      "PRS-0703",
+      "PRS-0406",
+      "PRS-0304"
+    ],
+    "scores": [
+      5.143103834888557,
+      3.4557451687341025,
+      3.4557451687341025,
+      2.9745409699232197,
+      2.9745409699232197,
+      2.328237654275726,
+      2.2732575352586712,
+      2.2732575352586712,
+      2.14630052021406,
+      1.9907369446028773,
+      1.856199828460632,
+      1.7386960314127966
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "living room carpet squishes underfoot, soaked through to the cushion",
+    "codes": [
+      "PRS-0404",
+      "PRS-1101",
+      "PRS-0202",
+      "PRS-1102",
+      "PRS-0405",
+      "PRS-0503",
+      "PRS-0402",
+      "PRS-0407",
+      "PRS-0401",
+      "PRS-0802"
+    ],
+    "scores": [
+      5.470650426000457,
+      4.321023899199477,
+      4.007836662962026,
+      2.6506074985109693,
+      2.266376142159199,
+      2.113210897958383,
+      1.577123461287842,
+      1.4628137630384317,
+      1.3639545211552027,
+      1.2776115354599547
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "cellar has two feet of water after the sump failed",
+    "codes": [
+      "PRS-0203",
+      "PRS-0202",
+      "PRS-0204",
+      "PRS-0201",
+      "PRS-0503"
+    ],
+    "scores": [
+      4.3840810944172866,
+      3.4557451687341025,
+      3.4557451687341025,
+      3.286904006427925,
+      2.2732575352586712
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "toilet overflowed with solids, black water across the bathroom floor",
+    "codes": [
+      "PRS-0204",
+      "PRS-0201",
+      "PRS-0409",
+      "PRS-0202",
+      "PRS-1103",
+      "PRS-1104",
+      "PRS-1102",
+      "PRS-0203",
+      "PRS-0503",
+      "PRS-1101",
+      "PRS-0703",
+      "PRS-0406",
+      "PRS-0304"
+    ],
+    "scores": [
+      5.719560938095549,
+      5.143103834888557,
+      4.06786456360807,
+      3.4557451687341025,
+      2.9745409699232197,
+      2.9745409699232197,
+      2.328237654275726,
+      2.2732575352586712,
+      2.2732575352586712,
+      2.14630052021406,
+      1.9907369446028773,
+      1.856199828460632,
+      1.7386960314127966
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "sheetrock wet up to 14 inches along the north wall, wicking",
+    "codes": [
+      "PRS-1003",
+      "PRS-0407",
+      "PRS-0401",
+      "PRS-0303",
+      "PRS-0801",
+      "PRS-0402",
+      "PRS-0404",
+      "PRS-0802",
+      "PRS-1001",
+      "PRS-1002",
+      "PRS-0601",
+      "PRS-1004",
+      "PRS-1005",
+      "PRS-1006"
+    ],
+    "scores": [
+      3.756067035624697,
+      3.5638950107562533,
+      3.3230414121525804,
+      2.720067983425365,
+      2.7062831587307876,
+      2.6285391021464033,
+      2.4380229383973866,
+      2.1293525590999245,
+      1.595853309413217,
+      1.517882939934211,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.1258720723588664
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "batts behind the wall are saturated and slumping",
+    "codes": [
+      "PRS-0402",
+      "PRS-0801",
+      "PRS-1003",
+      "PRS-0303",
+      "PRS-1004",
+      "PRS-0404",
+      "PRS-0407",
+      "PRS-0401",
+      "PRS-0802"
+    ],
+    "scores": [
+      3.678311395632175,
+      2.7062831587307876,
+      2.7062831587307876,
+      2.5349661797279412,
+      1.948894112943647,
+      1.4628137630384317,
+      1.4628137630384317,
+      1.3639545211552027,
+      1.2776115354599547
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "base trim swollen and pulling off the wall in the hallway",
+    "codes": [
+      "PRS-0410",
+      "PRS-0801",
+      "PRS-1003",
+      "PRS-0303",
+      "PRS-0403",
+      "PRS-1005"
+    ],
+    "scores": [
+      3.5180392652643593,
+      2.7062831587307876,
+      2.7062831587307876,
+      2.5349661797279412,
+      2.279300974572937,
+      1.948894112943647
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "carpet cushion is waterlogged, can't be saved",
+    "codes": [
+      "PRS-0404",
+      "PRS-1101",
+      "PRS-0202",
+      "PRS-1102",
+      "PRS-0405",
+      "PRS-0503",
+      "PRS-0402",
+      "PRS-0407",
+      "PRS-0401",
+      "PRS-0802"
+    ],
+    "scores": [
+      5.470650426000457,
+      4.321023899199477,
+      4.007836662962026,
+      2.6506074985109693,
+      2.266376142159199,
+      2.113210897958383,
+      1.577123461287842,
+      1.4628137630384317,
+      1.3639545211552027,
+      1.2776115354599547
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "carpet coming apart from its backing after sitting wet for days, not salvageable",
+    "codes": [
+      "PRS-0405",
+      "PRS-0404",
+      "PRS-0903",
+      "PRS-1102",
+      "PRS-0402",
+      "PRS-1101",
+      "PRS-0407",
+      "PRS-0401",
+      "PRS-0202",
+      "PRS-0802",
+      "PRS-0503"
+    ],
+    "scores": [
+      5.514532997065277,
+      4.704399080556586,
+      3.501979890573889,
+      2.6506074985109693,
+      2.6285391021464033,
+      2.4434791879985847,
+      2.4380229383973866,
+      2.2732575352586712,
+      2.266376142159199,
+      2.1293525590999245,
+      2.113210897958383
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "vinyl plank cupped and lifting at the seams in the kitchen",
+    "codes": [
+      "PRS-0406",
+      "PRS-1103"
+    ],
+    "scores": [
+      5.33522406606966,
+      2.101187934344333
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "ceiling sheetrock sagging and dripping below the upstairs bath",
+    "codes": [
+      "PRS-0407",
+      "PRS-1006",
+      "PRS-0801",
+      "PRS-1001",
+      "PRS-1002",
+      "PRS-0601",
+      "PRS-1004",
+      "PRS-1005",
+      "PRS-0401",
+      "PRS-1003"
+    ],
+    "scores": [
+      4.028306273696912,
+      4.028306273696912,
+      2.7062831587307876,
+      1.595853309413217,
+      1.517882939934211,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.0497838768939094,
+      1.0497838768939094
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "need to pull the commode to get the flooring up",
+    "codes": [
+      "PRS-1103",
+      "PRS-1104",
+      "PRS-0409",
+      "PRS-1102",
+      "PRS-1101",
+      "PRS-0703",
+      "PRS-0304",
+      "PRS-0201",
+      "PRS-0406"
+    ],
+    "scores": [
+      2.9745409699232197,
+      2.9745409699232197,
+      2.4407187381648416,
+      2.328237654275726,
+      2.14630052021406,
+      1.9907369446028773,
+      1.9237978351102205,
+      1.856199828460632,
+      1.856199828460632
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "studs exposed after the flood cut need treating before close up",
+    "codes": [
+      "PRS-0401",
+      "PRS-0501",
+      "PRS-0604",
+      "PRS-0203",
+      "PRS-0805",
+      "PRS-0603"
+    ],
+    "scores": [
+      6.546680599939862,
+      5.359552609574653,
+      4.997345662112461,
+      3.0286413346755023,
+      1.5865263273055732,
+      1.479306396848102
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "fuzzy green growth on drywall behind the washer, about 10 sq ft",
+    "codes": [
+      "PRS-1001",
+      "PRS-1002",
+      "PRS-0407",
+      "PRS-0601",
+      "PRS-1004",
+      "PRS-1005",
+      "PRS-1006",
+      "PRS-0401",
+      "PRS-1003"
+    ],
+    "scores": [
+      2.659755515688695,
+      2.529804899890352,
+      1.8764534539314441,
+      1.8764534539314441,
+      1.8764534539314441,
+      1.8764534539314441,
+      1.8764534539314441,
+      1.7496397948231823,
+      1.7496397948231823
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "mildew spotting on the floor joists in the crawl space, needs sanding off",
+    "codes": [
+      "PRS-0603",
+      "PRS-1104",
+      "PRS-1103",
+      "PRS-0604",
+      "PRS-1102",
+      "PRS-0601",
+      "PRS-1101",
+      "PRS-0203",
+      "PRS-0703",
+      "PRS-0201",
+      "PRS-0406",
+      "PRS-0304",
+      "PRS-0501",
+      "PRS-0602",
+      "PRS-0805"
+    ],
+    "scores": [
+      6.646877459950175,
+      6.476520860497109,
+      2.9745409699232197,
+      2.958612793696204,
+      2.328237654275726,
+      2.2488019305756226,
+      2.14630052021406,
+      2.1108235591586153,
+      1.9907369446028773,
+      1.856199828460632,
+      1.856199828460632,
+      1.7386960314127966,
+      1.5865263273055732,
+      1.5865263273055732,
+      1.5865263273055732
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "treated studs need a sealing coat after the mold cleaning",
+    "codes": [
+      "PRS-0604",
+      "PRS-0603",
+      "PRS-0501",
+      "PRS-0601",
+      "PRS-0502",
+      "PRS-0804",
+      "PRS-0503",
+      "PRS-0602",
+      "PRS-0903",
+      "PRS-0806",
+      "PRS-0802",
+      "PRS-0805"
+    ],
+    "scores": [
+      7.462856323525965,
+      5.044189277559052,
+      3.852902469464772,
+      3.7480032176260374,
+      3.212446560879856,
+      3.099148641070017,
+      3.0554925076433075,
+      2.644210545509289,
+      2.4434791879985847,
+      2.266376142159199,
+      1.9794374212746237,
+      1.5865263273055732
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "need plastic walls up around the work area to keep spores out of the rest of the house",
+    "codes": [
+      "PRS-0701",
+      "PRS-0704",
+      "PRS-0303",
+      "PRS-0801",
+      "PRS-1003"
+    ],
+    "scores": [
+      3.7730262822690794,
+      3.5180392652643593,
+      2.720067983425365,
+      2.7062831587307876,
+      2.7062831587307876
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "need an air scrubber running under negative pressure in the contained room",
+    "codes": [
+      "PRS-0702",
+      "PRS-0301"
+    ],
+    "scores": [
+      5.767171641644103,
+      3.248156854906079
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "black film on walls and ceiling of the room next to the kitchen fire",
+    "codes": [
+      "PRS-0801",
+      "PRS-0407",
+      "PRS-1006",
+      "PRS-1003",
+      "PRS-0303",
+      "PRS-0803",
+      "PRS-0805",
+      "PRS-0806",
+      "PRS-0802",
+      "PRS-0804"
+    ],
+    "scores": [
+      7.525777215419958,
+      2.9024342013380457,
+      2.9024342013380457,
+      2.7062831587307876,
+      2.5349661797279412,
+      2.4434791879985847,
+      2.266376142159199,
+      2.266376142159199,
+      1.9794374212746237,
+      1.861592264579214
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "greasy smoke film on kitchen counters and cabinets",
+    "codes": [
+      "PRS-0806",
+      "PRS-0802",
+      "PRS-0801",
+      "PRS-0410",
+      "PRS-0804",
+      "PRS-0803",
+      "PRS-0805"
+    ],
+    "scores": [
+      7.088808610351416,
+      6.363208357829748,
+      4.224034457116998,
+      3.5180392652643593,
+      2.783499484282153,
+      2.4434791879985847,
+      2.266376142159199
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "whole house smells like smoke after the fire, needs fogging",
+    "codes": [
+      "PRS-0803",
+      "PRS-0804",
+      "PRS-0806",
+      "PRS-0802",
+      "PRS-0805",
+      "PRS-0801",
+      "PRS-0903"
+    ],
+    "scores": [
+      11.395541677770082,
+      6.504580933503377,
+      5.478822703039055,
+      4.892598402147468,
+      4.532752284318398,
+      4.226421795916766,
+      2.4407187381648416
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "yellow smoke stains bleeding through on the ceiling, needs stain blocker before paint",
+    "codes": [
+      "PRS-0804",
+      "PRS-0801",
+      "PRS-1003",
+      "PRS-0806",
+      "PRS-0802",
+      "PRS-0407",
+      "PRS-1006",
+      "PRS-0803",
+      "PRS-0805"
+    ],
+    "scores": [
+      5.88264812535217,
+      4.81949405668917,
+      3.5180392652643593,
+      3.212446560879856,
+      2.9131609808728443,
+      2.9024342013380457,
+      2.9024342013380457,
+      2.4434791879985847,
+      2.266376142159199
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "rafters burned deep in the attic above the kitchen",
+    "codes": [
+      "PRS-0805",
+      "PRS-0501",
+      "PRS-0603",
+      "PRS-0604"
+    ],
+    "scores": [
+      3.8503420966670205,
+      1.5865263273055732,
+      1.479306396848102,
+      1.479306396848102
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "soot blowing out of the registers when the furnace kicks on",
+    "codes": [
+      "PRS-0806",
+      "PRS-0410",
+      "PRS-0801",
+      "PRS-0802"
+    ],
+    "scores": [
+      6.140177818833008,
+      3.5180392652643593,
+      3.5180392652643593,
+      3.450047376956904
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "everything in the family room needs boxing up and moving to storage with a list",
+    "codes": [],
+    "scores": []
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "sofa and dresser sitting on wet carpet, need lifting onto blocks",
+    "codes": [
+      "PRS-0404",
+      "PRS-0902",
+      "PRS-0804",
+      "PRS-1102",
+      "PRS-0402",
+      "PRS-1101",
+      "PRS-0407",
+      "PRS-0401",
+      "PRS-0202",
+      "PRS-0405",
+      "PRS-0802",
+      "PRS-0503"
+    ],
+    "scores": [
+      4.704399080556586,
+      3.248156854906079,
+      2.6680230005740855,
+      2.6506074985109693,
+      2.6285391021464033,
+      2.4434791879985847,
+      2.4380229383973866,
+      2.2732575352586712,
+      2.266376142159199,
+      2.266376142159199,
+      2.1293525590999245,
+      2.113210897958383
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "new sheetrock needed on the lower 2 ft of the hallway wall",
+    "codes": [
+      "PRS-1003",
+      "PRS-0801",
+      "PRS-0303",
+      "PRS-1001",
+      "PRS-1002",
+      "PRS-0407",
+      "PRS-0601",
+      "PRS-1004",
+      "PRS-1005",
+      "PRS-1006",
+      "PRS-0401"
+    ],
+    "scores": [
+      3.756067035624697,
+      2.7062831587307876,
+      2.5349661797279412,
+      1.595853309413217,
+      1.517882939934211,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.0497838768939094
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "wall patches are finished and sanded, ready for primer and two coats",
+    "codes": [
+      "PRS-1003",
+      "PRS-1104",
+      "PRS-0804",
+      "PRS-1002",
+      "PRS-0603",
+      "PRS-0801",
+      "PRS-0303",
+      "PRS-1001",
+      "PRS-1004",
+      "PRS-1005",
+      "PRS-1006"
+    ],
+    "scores": [
+      4.81949405668917,
+      3.501979890573889,
+      3.099148641070017,
+      3.0554925076433075,
+      3.0286413346755023,
+      2.7062831587307876,
+      2.5349661797279412,
+      2.266376142159199,
+      2.266376142159199,
+      2.266376142159199,
+      2.266376142159199
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "popcorn ceiling needs matching where the patch was made",
+    "codes": [
+      "PRS-1006",
+      "PRS-0407",
+      "PRS-0801"
+    ],
+    "scores": [
+      8.939276252968572,
+      2.9024342013380457,
+      2.7062831587307876
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "new underlay needed in the bedroom before the carpet goes back",
+    "codes": [
+      "PRS-1101",
+      "PRS-0202",
+      "PRS-0404",
+      "PRS-1102",
+      "PRS-0405",
+      "PRS-0503"
+    ],
+    "scores": [
+      4.321023899199477,
+      4.007836662962026,
+      4.007836662962026,
+      2.6506074985109693,
+      2.266376142159199,
+      2.113210897958383
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "oak floor cupped but dry now, needs sanding and a new finish",
+    "codes": [
+      "PRS-1104",
+      "PRS-0304",
+      "PRS-1002",
+      "PRS-0603",
+      "PRS-1103",
+      "PRS-0303",
+      "PRS-0305",
+      "PRS-1102",
+      "PRS-1001",
+      "PRS-1004",
+      "PRS-1005",
+      "PRS-1006",
+      "PRS-0302",
+      "PRS-1101",
+      "PRS-1003",
+      "PRS-0104",
+      "PRS-0301",
+      "PRS-0703",
+      "PRS-0106",
+      "PRS-0201",
+      "PRS-0406",
+      "PRS-0801"
+    ],
+    "scores": [
+      8.577708794841442,
+      5.999705908732291,
+      3.0554925076433075,
+      3.0286413346755023,
+      2.9745409699232197,
+      2.5588590888862965,
+      2.5588590888862965,
+      2.328237654275726,
+      2.266376142159199,
+      2.266376142159199,
+      2.266376142159199,
+      2.266376142159199,
+      2.14630052021406,
+      2.14630052021406,
+      2.113210897958383,
+      1.9907369446028773,
+      1.9907369446028773,
+      1.9907369446028773,
+      1.856199828460632,
+      1.856199828460632,
+      1.856199828460632,
+      1.856199828460632
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "shingles blown off the back slope, rain coming into the attic, needs covering tonight",
+    "codes": [
+      "PRS-0703"
+    ],
+    "scores": [
+      3.7730262822690794
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "front picture window smashed out by a branch, opening needs securing",
+    "codes": [
+      "PRS-1202",
+      "PRS-1203"
+    ],
+    "scores": [
+      6.198297282140034,
+      1.9772012091851983
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "large oak limb resting on the garage roof",
+    "codes": [
+      "PRS-1203",
+      "PRS-1201",
+      "PRS-1202",
+      "PRS-1104",
+      "PRS-0304"
+    ],
+    "scores": [
+      5.830301528369938,
+      3.9130159337395365,
+      2.384047800870963,
+      2.101187934344333,
+      1.7021507884331977
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "wall feels dry to the touch but suspect water behind it, need the infrared camera",
+    "codes": [
+      "PRS-0303",
+      "PRS-0801",
+      "PRS-0103",
+      "PRS-0202",
+      "PRS-0204",
+      "PRS-0201",
+      "PRS-1003",
+      "PRS-0304",
+      "PRS-0305",
+      "PRS-0203",
+      "PRS-0503",
+      "PRS-0302",
+      "PRS-0104",
+      "PRS-0301",
+      "PRS-0106"
+    ],
+    "scores": [
+      5.093825268614237,
+      4.562482987191419,
+      3.9280083599639166,
+      3.4557451687341025,
+      3.4557451687341025,
+      3.286904006427925,
+      2.7062831587307876,
+      2.5588590888862965,
+      2.5588590888862965,
+      2.2732575352586712,
+      2.2732575352586712,
+      2.14630052021406,
+      1.9907369446028773,
+      1.9907369446028773,
+      1.856199828460632
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "hardwood in the dining room still reading wet under the surface, needs the suction panels",
+    "codes": [
+      "PRS-0802",
+      "PRS-1104",
+      "PRS-0102",
+      "PRS-0106",
+      "PRS-0304",
+      "PRS-0502",
+      "PRS-0602",
+      "PRS-0402",
+      "PRS-0404",
+      "PRS-0407",
+      "PRS-0401",
+      "PRS-0804"
+    ],
+    "scores": [
+      4.438787963994164,
+      3.501979890573889,
+      3.248156854906079,
+      3.0286413346755023,
+      2.836917980721996,
+      2.644210545509289,
+      2.644210545509289,
+      2.6285391021464033,
+      2.4380229383973866,
+      2.4380229383973866,
+      2.2732575352586712,
+      2.171943926637534
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "drying gear has been running 4 days, readings at goal, pick up the fans and dehus",
+    "codes": [
+      "PRS-0301",
+      "PRS-0106",
+      "PRS-0102",
+      "PRS-0303",
+      "PRS-0304",
+      "PRS-0305",
+      "PRS-0302",
+      "PRS-0104",
+      "PRS-0801"
+    ],
+    "scores": [
+      6.415380938722601,
+      4.884841163136135,
+      3.248156854906079,
+      2.7439608925837202,
+      2.7439608925837202,
+      2.5588590888862965,
+      2.374795950347137,
+      1.9907369446028773,
+      1.856199828460632
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "bm25",
+    "finding": "water got inside the wall cavity behind the kitchen cabinets, don't want to cut the wall open",
+    "codes": [
+      "PRS-0303",
+      "PRS-0401",
+      "PRS-0410",
+      "PRS-0202",
+      "PRS-0204",
+      "PRS-0201",
+      "PRS-1202",
+      "PRS-0801",
+      "PRS-1003",
+      "PRS-0203",
+      "PRS-0503"
+    ],
+    "scores": [
+      5.830301528369938,
+      3.5180392652643593,
+      3.5180392652643593,
+      3.4557451687341025,
+      3.4557451687341025,
+      3.286904006427925,
+      3.099148641070017,
+      2.7062831587307876,
+      2.7062831587307876,
+      2.2732575352586712,
+      2.2732575352586712
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "kitchen floor has about an inch of water sitting on the tile from a supply line break",
+    "codes": [
+      "PRS-0201",
+      "PRS-0202",
+      "PRS-0204",
+      "PRS-1103",
+      "PRS-1104",
+      "PRS-1102",
+      "PRS-0203",
+      "PRS-0503",
+      "PRS-1101",
+      "PRS-0703",
+      "PRS-0406",
+      "PRS-0304"
+    ],
+    "scores": [
+      5.143103834888557,
+      3.4557451687341025,
+      3.4557451687341025,
+      2.9745409699232197,
+      2.9745409699232197,
+      2.328237654275726,
+      2.2732575352586712,
+      2.2732575352586712,
+      2.14630052021406,
+      1.9907369446028773,
+      1.856199828460632,
+      1.7386960314127966
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "living room carpet squishes underfoot, soaked through to the cushion",
+    "codes": [
+      "PRS-0404",
+      "PRS-1101",
+      "PRS-0202",
+      "PRS-1102",
+      "PRS-0405",
+      "PRS-0503",
+      "PRS-0402",
+      "PRS-0407",
+      "PRS-0401",
+      "PRS-0802"
+    ],
+    "scores": [
+      5.470650426000457,
+      4.321023899199477,
+      4.007836662962026,
+      2.6506074985109693,
+      2.266376142159199,
+      2.113210897958383,
+      1.577123461287842,
+      1.4628137630384317,
+      1.3639545211552027,
+      1.2776115354599547
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "cellar has two feet of water after the sump failed",
+    "codes": [
+      "PRS-0203",
+      "PRS-0202",
+      "PRS-0204",
+      "PRS-0201",
+      "PRS-0503"
+    ],
+    "scores": [
+      4.3840810944172866,
+      3.4557451687341025,
+      3.4557451687341025,
+      3.286904006427925,
+      2.2732575352586712
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "toilet overflowed with solids, black water across the bathroom floor",
+    "codes": [
+      "PRS-0204",
+      "PRS-0201",
+      "PRS-0409",
+      "PRS-0202",
+      "PRS-1103",
+      "PRS-1104",
+      "PRS-1102",
+      "PRS-0203",
+      "PRS-0503",
+      "PRS-1101",
+      "PRS-0703",
+      "PRS-0406",
+      "PRS-0304",
+      "PRS-0902",
+      "PRS-0804"
+    ],
+    "scores": [
+      5.719560938095549,
+      5.143103834888557,
+      4.06786456360807,
+      3.4557451687341025,
+      2.9745409699232197,
+      2.9745409699232197,
+      2.328237654275726,
+      2.2732575352586712,
+      2.2732575352586712,
+      2.14630052021406,
+      1.9907369446028773,
+      1.856199828460632,
+      1.7386960314127966,
+      1.4616705847077354,
+      1.2006103502583383
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "sheetrock wet up to 14 inches along the north wall, wicking",
+    "codes": [
+      "PRS-1003",
+      "PRS-0407",
+      "PRS-0401",
+      "PRS-0303",
+      "PRS-0801",
+      "PRS-0402",
+      "PRS-0404",
+      "PRS-0802",
+      "PRS-1001",
+      "PRS-1002",
+      "PRS-0601",
+      "PRS-1004",
+      "PRS-1005",
+      "PRS-1006"
+    ],
+    "scores": [
+      3.756067035624697,
+      3.5638950107562533,
+      3.3230414121525804,
+      2.720067983425365,
+      2.7062831587307876,
+      2.6285391021464033,
+      2.4380229383973866,
+      2.1293525590999245,
+      1.595853309413217,
+      1.517882939934211,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.1258720723588664
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "batts behind the wall are saturated and slumping",
+    "codes": [
+      "PRS-0402",
+      "PRS-0801",
+      "PRS-1003",
+      "PRS-0303",
+      "PRS-1004",
+      "PRS-0404",
+      "PRS-0407",
+      "PRS-0401",
+      "PRS-0802"
+    ],
+    "scores": [
+      3.678311395632175,
+      2.7062831587307876,
+      2.7062831587307876,
+      2.5349661797279412,
+      1.948894112943647,
+      1.4628137630384317,
+      1.4628137630384317,
+      1.3639545211552027,
+      1.2776115354599547
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "base trim swollen and pulling off the wall in the hallway",
+    "codes": [
+      "PRS-0410",
+      "PRS-0801",
+      "PRS-1003",
+      "PRS-0303",
+      "PRS-0403",
+      "PRS-1005"
+    ],
+    "scores": [
+      3.5180392652643593,
+      2.7062831587307876,
+      2.7062831587307876,
+      2.5349661797279412,
+      2.279300974572937,
+      1.948894112943647
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "carpet cushion is waterlogged, can't be saved",
+    "codes": [
+      "PRS-0404",
+      "PRS-1101",
+      "PRS-0202",
+      "PRS-1102",
+      "PRS-0405",
+      "PRS-0503",
+      "PRS-0402",
+      "PRS-0407",
+      "PRS-0401",
+      "PRS-0802"
+    ],
+    "scores": [
+      5.470650426000457,
+      4.321023899199477,
+      4.007836662962026,
+      2.6506074985109693,
+      2.266376142159199,
+      2.113210897958383,
+      1.577123461287842,
+      1.4628137630384317,
+      1.3639545211552027,
+      1.2776115354599547
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "carpet coming apart from its backing after sitting wet for days, not salvageable",
+    "codes": [
+      "PRS-0405",
+      "PRS-0404",
+      "PRS-0202",
+      "PRS-0903",
+      "PRS-0503",
+      "PRS-1102",
+      "PRS-0402",
+      "PRS-1101",
+      "PRS-0407",
+      "PRS-0401",
+      "PRS-0802",
+      "PRS-0204",
+      "PRS-0201",
+      "PRS-0203"
+    ],
+    "scores": [
+      5.514532997065277,
+      4.704399080556586,
+      3.821461468089545,
+      3.501979890573889,
+      3.136176788824785,
+      2.6506074985109693,
+      2.6285391021464033,
+      2.4434791879985847,
+      2.4380229383973866,
+      2.2732575352586712,
+      2.1293525590999245,
+      1.555085325930346,
+      1.4791068028925662,
+      1.022965890866402
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "vinyl plank cupped and lifting at the seams in the kitchen",
+    "codes": [
+      "PRS-0406",
+      "PRS-1103"
+    ],
+    "scores": [
+      5.33522406606966,
+      2.101187934344333
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "ceiling sheetrock sagging and dripping below the upstairs bath",
+    "codes": [
+      "PRS-0407",
+      "PRS-1006",
+      "PRS-0801",
+      "PRS-1001",
+      "PRS-1002",
+      "PRS-0601",
+      "PRS-1004",
+      "PRS-1005",
+      "PRS-0401",
+      "PRS-1003"
+    ],
+    "scores": [
+      4.028306273696912,
+      4.028306273696912,
+      2.7062831587307876,
+      1.595853309413217,
+      1.517882939934211,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.0497838768939094,
+      1.0497838768939094
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "need to pull the commode to get the flooring up",
+    "codes": [
+      "PRS-1103",
+      "PRS-1104",
+      "PRS-0409",
+      "PRS-1102",
+      "PRS-1101",
+      "PRS-0703",
+      "PRS-0304",
+      "PRS-0201",
+      "PRS-0406"
+    ],
+    "scores": [
+      2.9745409699232197,
+      2.9745409699232197,
+      2.4407187381648416,
+      2.328237654275726,
+      2.14630052021406,
+      1.9907369446028773,
+      1.9237978351102205,
+      1.856199828460632,
+      1.856199828460632
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "studs exposed after the flood cut need treating before close up",
+    "codes": [
+      "PRS-0401",
+      "PRS-0501",
+      "PRS-0604",
+      "PRS-0203",
+      "PRS-0805",
+      "PRS-0202",
+      "PRS-0204",
+      "PRS-0603",
+      "PRS-0201",
+      "PRS-0503"
+    ],
+    "scores": [
+      7.5716784571142295,
+      5.359552609574653,
+      4.997345662112461,
+      4.051607225541904,
+      1.5865263273055732,
+      1.555085325930346,
+      1.555085325930346,
+      1.479306396848102,
+      1.4791068028925662,
+      1.022965890866402
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "fuzzy green growth on drywall behind the washer, about 10 sq ft",
+    "codes": [
+      "PRS-1001",
+      "PRS-1002",
+      "PRS-0407",
+      "PRS-0601",
+      "PRS-1004",
+      "PRS-1005",
+      "PRS-1006",
+      "PRS-0401",
+      "PRS-1003"
+    ],
+    "scores": [
+      2.659755515688695,
+      2.529804899890352,
+      1.8764534539314441,
+      1.8764534539314441,
+      1.8764534539314441,
+      1.8764534539314441,
+      1.8764534539314441,
+      1.7496397948231823,
+      1.7496397948231823
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "mildew spotting on the floor joists in the crawl space, needs sanding off",
+    "codes": [
+      "PRS-0603",
+      "PRS-1104",
+      "PRS-1103",
+      "PRS-0604",
+      "PRS-1102",
+      "PRS-0601",
+      "PRS-1101",
+      "PRS-0203",
+      "PRS-0703",
+      "PRS-0201",
+      "PRS-0406",
+      "PRS-0304",
+      "PRS-0501",
+      "PRS-0602",
+      "PRS-0805",
+      "PRS-1002"
+    ],
+    "scores": [
+      6.646877459950175,
+      6.476520860497109,
+      2.9745409699232197,
+      2.958612793696204,
+      2.328237654275726,
+      2.2488019305756226,
+      2.14630052021406,
+      2.1108235591586153,
+      1.9907369446028773,
+      1.856199828460632,
+      1.856199828460632,
+      1.7386960314127966,
+      1.5865263273055732,
+      1.5865263273055732,
+      1.5865263273055732,
+      1.5831176693689617
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "treated studs need a sealing coat after the mold cleaning",
+    "codes": [
+      "PRS-0604",
+      "PRS-0603",
+      "PRS-0503",
+      "PRS-0501",
+      "PRS-0601",
+      "PRS-0502",
+      "PRS-0804",
+      "PRS-0602",
+      "PRS-0903",
+      "PRS-0806",
+      "PRS-0802",
+      "PRS-0805",
+      "PRS-0202",
+      "PRS-0204",
+      "PRS-0201",
+      "PRS-0203"
+    ],
+    "scores": [
+      7.462856323525965,
+      5.044189277559052,
+      4.07845839850971,
+      3.852902469464772,
+      3.7480032176260374,
+      3.212446560879856,
+      3.099148641070017,
+      2.644210545509289,
+      2.4434791879985847,
+      2.266376142159199,
+      1.9794374212746237,
+      1.5865263273055732,
+      1.555085325930346,
+      1.555085325930346,
+      1.4791068028925662,
+      1.022965890866402
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "need plastic walls up around the work area to keep spores out of the rest of the house",
+    "codes": [
+      "PRS-0701",
+      "PRS-0704",
+      "PRS-0303",
+      "PRS-0801",
+      "PRS-1003"
+    ],
+    "scores": [
+      3.7730262822690794,
+      3.5180392652643593,
+      2.720067983425365,
+      2.7062831587307876,
+      2.7062831587307876
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "need an air scrubber running under negative pressure in the contained room",
+    "codes": [
+      "PRS-0702",
+      "PRS-0301"
+    ],
+    "scores": [
+      5.767171641644103,
+      3.248156854906079
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "black film on walls and ceiling of the room next to the kitchen fire",
+    "codes": [
+      "PRS-0801",
+      "PRS-0804",
+      "PRS-0407",
+      "PRS-1006",
+      "PRS-1003",
+      "PRS-0303",
+      "PRS-0803",
+      "PRS-0805",
+      "PRS-0806",
+      "PRS-0802",
+      "PRS-0902"
+    ],
+    "scores": [
+      8.373209558043063,
+      3.0622026148375525,
+      2.9024342013380457,
+      2.9024342013380457,
+      2.7062831587307876,
+      2.5349661797279412,
+      2.4434791879985847,
+      2.266376142159199,
+      2.266376142159199,
+      1.9794374212746237,
+      1.4616705847077354
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "greasy smoke film on kitchen counters and cabinets",
+    "codes": [
+      "PRS-0806",
+      "PRS-0802",
+      "PRS-0801",
+      "PRS-0410",
+      "PRS-0804",
+      "PRS-0803",
+      "PRS-0805"
+    ],
+    "scores": [
+      7.088808610351416,
+      6.363208357829748,
+      4.224034457116998,
+      3.5180392652643593,
+      2.783499484282153,
+      2.4434791879985847,
+      2.266376142159199
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "whole house smells like smoke after the fire, needs fogging",
+    "codes": [
+      "PRS-0803",
+      "PRS-0804",
+      "PRS-0806",
+      "PRS-0802",
+      "PRS-0805",
+      "PRS-0801",
+      "PRS-0903",
+      "PRS-0202",
+      "PRS-0204",
+      "PRS-0201",
+      "PRS-0203",
+      "PRS-0503"
+    ],
+    "scores": [
+      11.395541677770082,
+      6.504580933503377,
+      5.478822703039055,
+      4.892598402147468,
+      4.532752284318398,
+      4.226421795916766,
+      2.4407187381648416,
+      1.555085325930346,
+      1.555085325930346,
+      1.4791068028925662,
+      1.022965890866402,
+      1.022965890866402
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "yellow smoke stains bleeding through on the ceiling, needs stain blocker before paint",
+    "codes": [
+      "PRS-0804",
+      "PRS-0801",
+      "PRS-1003",
+      "PRS-0806",
+      "PRS-0802",
+      "PRS-0407",
+      "PRS-1006",
+      "PRS-0803",
+      "PRS-0805",
+      "PRS-0902"
+    ],
+    "scores": [
+      7.96492961603076,
+      4.81949405668917,
+      3.5180392652643593,
+      3.212446560879856,
+      2.9131609808728443,
+      2.9024342013380457,
+      2.9024342013380457,
+      2.4434791879985847,
+      2.266376142159199,
+      1.4616705847077354
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "rafters burned deep in the attic above the kitchen",
+    "codes": [
+      "PRS-0805",
+      "PRS-0501",
+      "PRS-0603",
+      "PRS-0604"
+    ],
+    "scores": [
+      3.8503420966670205,
+      1.5865263273055732,
+      1.479306396848102,
+      1.479306396848102
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "soot blowing out of the registers when the furnace kicks on",
+    "codes": [
+      "PRS-0806",
+      "PRS-0410",
+      "PRS-0801",
+      "PRS-0802"
+    ],
+    "scores": [
+      6.140177818833008,
+      3.5180392652643593,
+      3.5180392652643593,
+      3.450047376956904
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "everything in the family room needs boxing up and moving to storage with a list",
+    "codes": [],
+    "scores": []
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "sofa and dresser sitting on wet carpet, need lifting onto blocks",
+    "codes": [
+      "PRS-0404",
+      "PRS-0902",
+      "PRS-0804",
+      "PRS-1102",
+      "PRS-0402",
+      "PRS-1101",
+      "PRS-0407",
+      "PRS-0401",
+      "PRS-0202",
+      "PRS-0405",
+      "PRS-0802",
+      "PRS-0503"
+    ],
+    "scores": [
+      5.391177773357299,
+      3.248156854906079,
+      2.6680230005740855,
+      2.6506074985109693,
+      2.6285391021464033,
+      2.4434791879985847,
+      2.4380229383973866,
+      2.2732575352586712,
+      2.266376142159199,
+      2.266376142159199,
+      2.1293525590999245,
+      2.113210897958383
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "new sheetrock needed on the lower 2 ft of the hallway wall",
+    "codes": [
+      "PRS-1003",
+      "PRS-0801",
+      "PRS-0303",
+      "PRS-1001",
+      "PRS-1002",
+      "PRS-0407",
+      "PRS-0601",
+      "PRS-1004",
+      "PRS-1005",
+      "PRS-1006",
+      "PRS-0401"
+    ],
+    "scores": [
+      3.756067035624697,
+      2.7062831587307876,
+      2.5349661797279412,
+      1.595853309413217,
+      1.517882939934211,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.1258720723588664,
+      1.0497838768939094
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "wall patches are finished and sanded, ready for primer and two coats",
+    "codes": [
+      "PRS-1003",
+      "PRS-1006",
+      "PRS-1104",
+      "PRS-0804",
+      "PRS-1002",
+      "PRS-0603",
+      "PRS-0801",
+      "PRS-0303",
+      "PRS-1001",
+      "PRS-1004",
+      "PRS-1005",
+      "PRS-0102",
+      "PRS-0106"
+    ],
+    "scores": [
+      4.81949405668917,
+      3.9642379691802843,
+      3.501979890573889,
+      3.099148641070017,
+      3.0554925076433075,
+      3.0286413346755023,
+      2.7062831587307876,
+      2.5349661797279412,
+      2.266376142159199,
+      2.266376142159199,
+      2.266376142159199,
+      1.4616705847077354,
+      1.362888600603976
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "popcorn ceiling needs matching where the patch was made",
+    "codes": [
+      "PRS-1006",
+      "PRS-0407",
+      "PRS-0801"
+    ],
+    "scores": [
+      8.939276252968572,
+      2.9024342013380457,
+      2.7062831587307876
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "new underlay needed in the bedroom before the carpet goes back",
+    "codes": [
+      "PRS-1101",
+      "PRS-0202",
+      "PRS-0404",
+      "PRS-1102",
+      "PRS-0405",
+      "PRS-0503"
+    ],
+    "scores": [
+      4.321023899199477,
+      4.007836662962026,
+      4.007836662962026,
+      2.6506074985109693,
+      2.266376142159199,
+      2.113210897958383
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "oak floor cupped but dry now, needs sanding and a new finish",
+    "codes": [
+      "PRS-1104",
+      "PRS-0304",
+      "PRS-1002",
+      "PRS-0603",
+      "PRS-1103",
+      "PRS-0303",
+      "PRS-0305",
+      "PRS-1102",
+      "PRS-1001",
+      "PRS-1004",
+      "PRS-1005",
+      "PRS-1006",
+      "PRS-0302",
+      "PRS-1101",
+      "PRS-1003",
+      "PRS-0104",
+      "PRS-0301",
+      "PRS-0703",
+      "PRS-0106",
+      "PRS-0201",
+      "PRS-0406",
+      "PRS-0801"
+    ],
+    "scores": [
+      8.577708794841442,
+      5.999705908732291,
+      3.0554925076433075,
+      3.0286413346755023,
+      2.9745409699232197,
+      2.5588590888862965,
+      2.5588590888862965,
+      2.328237654275726,
+      2.266376142159199,
+      2.266376142159199,
+      2.266376142159199,
+      2.266376142159199,
+      2.14630052021406,
+      2.14630052021406,
+      2.113210897958383,
+      1.9907369446028773,
+      1.9907369446028773,
+      1.9907369446028773,
+      1.856199828460632,
+      1.856199828460632,
+      1.856199828460632,
+      1.856199828460632
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "shingles blown off the back slope, rain coming into the attic, needs covering tonight",
+    "codes": [
+      "PRS-0703"
+    ],
+    "scores": [
+      3.7730262822690794
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "front picture window smashed out by a branch, opening needs securing",
+    "codes": [
+      "PRS-1202",
+      "PRS-1203"
+    ],
+    "scores": [
+      6.198297282140034,
+      1.9772012091851983
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "large oak limb resting on the garage roof",
+    "codes": [
+      "PRS-1203",
+      "PRS-1201",
+      "PRS-1202",
+      "PRS-1104",
+      "PRS-0304"
+    ],
+    "scores": [
+      5.830301528369938,
+      3.9130159337395365,
+      2.384047800870963,
+      2.101187934344333,
+      1.7021507884331977
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "wall feels dry to the touch but suspect water behind it, need the infrared camera",
+    "codes": [
+      "PRS-0303",
+      "PRS-0801",
+      "PRS-0103",
+      "PRS-0202",
+      "PRS-0204",
+      "PRS-0201",
+      "PRS-1003",
+      "PRS-0304",
+      "PRS-0305",
+      "PRS-0203",
+      "PRS-0503",
+      "PRS-0302",
+      "PRS-0104",
+      "PRS-0301",
+      "PRS-0106"
+    ],
+    "scores": [
+      5.093825268614237,
+      4.562482987191419,
+      3.9280083599639166,
+      3.4557451687341025,
+      3.4557451687341025,
+      3.286904006427925,
+      2.7062831587307876,
+      2.5588590888862965,
+      2.5588590888862965,
+      2.2732575352586712,
+      2.2732575352586712,
+      2.14630052021406,
+      1.9907369446028773,
+      1.9907369446028773,
+      1.856199828460632
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "hardwood in the dining room still reading wet under the surface, needs the suction panels",
+    "codes": [
+      "PRS-0802",
+      "PRS-1104",
+      "PRS-0102",
+      "PRS-0106",
+      "PRS-0304",
+      "PRS-0502",
+      "PRS-0602",
+      "PRS-0402",
+      "PRS-0404",
+      "PRS-0407",
+      "PRS-0401",
+      "PRS-0804"
+    ],
+    "scores": [
+      4.438787963994164,
+      3.501979890573889,
+      3.248156854906079,
+      3.0286413346755023,
+      2.836917980721996,
+      2.644210545509289,
+      2.644210545509289,
+      2.6285391021464033,
+      2.4380229383973866,
+      2.4380229383973866,
+      2.2732575352586712,
+      2.171943926637534
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "drying gear has been running 4 days, readings at goal, pick up the fans and dehus",
+    "codes": [
+      "PRS-0301",
+      "PRS-0106",
+      "PRS-0102",
+      "PRS-0303",
+      "PRS-0304",
+      "PRS-0305",
+      "PRS-0302",
+      "PRS-0104",
+      "PRS-0801"
+    ],
+    "scores": [
+      6.415380938722601,
+      4.884841163136135,
+      3.248156854906079,
+      2.7439608925837202,
+      2.7439608925837202,
+      2.5588590888862965,
+      2.374795950347137,
+      1.9907369446028773,
+      1.856199828460632
+    ]
+  },
+  {
+    "domain": "property_restoration",
+    "strategy": "hybrid",
+    "finding": "water got inside the wall cavity behind the kitchen cabinets, don't want to cut the wall open",
+    "codes": [
+      "PRS-0303",
+      "PRS-0401",
+      "PRS-0410",
+      "PRS-0202",
+      "PRS-0204",
+      "PRS-0201",
+      "PRS-1202",
+      "PRS-0801",
+      "PRS-1003",
+      "PRS-0203",
+      "PRS-0503"
+    ],
+    "scores": [
+      6.804828550051124,
+      3.5180392652643593,
+      3.5180392652643593,
+      3.4557451687341025,
+      3.4557451687341025,
+      3.286904006427925,
+      3.099148641070017,
+      2.7062831587307876,
+      2.7062831587307876,
+      2.2732575352586712,
+      2.2732575352586712
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "W/H won't light on propane, no spark at the electrode, swapped electrode and it fires",
+    "codes": [
+      "RVS-0301",
+      "RVS-0303",
+      "RVS-1106",
+      "RVS-0302",
+      "RVS-0304",
+      "RVS-0306",
+      "RVS-0305",
+      "RVS-0401",
+      "RVS-0202",
+      "RVS-0203",
+      "RVS-0204",
+      "RVS-0201",
+      "RVS-0101",
+      "RVS-0205"
+    ],
+    "scores": [
+      8.972675012274975,
+      4.6929844505390435,
+      4.297561592877459,
+      3.3110911470818327,
+      3.1591972560913755,
+      3.1591972560913755,
+      3.020628143502539,
+      2.2357910747667002,
+      2.092340442225249,
+      1.9003712593011328,
+      1.9003712593011328,
+      1.8170169329820198,
+      1.4806795059951328,
+      1.3818933034572107
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "water heater tank full of scale, anode eaten away down to the wire",
+    "codes": [
+      "RVS-0305",
+      "RVS-0301",
+      "RVS-0302",
+      "RVS-0303",
+      "RVS-0304",
+      "RVS-0306",
+      "RVS-0801",
+      "RVS-0802",
+      "RVS-0803",
+      "RVS-0701",
+      "RVS-0702",
+      "RVS-0705",
+      "RVS-0704",
+      "RVS-0703",
+      "RVS-0104",
+      "RVS-1401",
+      "RVS-0706"
+    ],
+    "scores": [
+      10.666492160736093,
+      5.518485245136388,
+      5.518485245136388,
+      5.518485245136388,
+      5.2653287601522925,
+      5.2653287601522925,
+      2.659502467164076,
+      2.659502467164076,
+      2.659502467164076,
+      2.198917043273138,
+      2.198917043273138,
+      2.0980433279837376,
+      2.006018684200866,
+      1.7605512354894532,
+      1.634696243289735,
+      1.5256345364694808,
+      1.4302151541401882
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "furnace fan runs but no heat, clicks 3 times then locks out, bad ignitor",
+    "codes": [
+      "RVS-0403",
+      "RVS-0401",
+      "RVS-0402",
+      "RVS-0404",
+      "RVS-0405",
+      "RVS-0502",
+      "RVS-1303",
+      "RVS-1306",
+      "RVS-1405",
+      "RVS-1302",
+      "RVS-1304",
+      "RVS-0304",
+      "RVS-1301",
+      "RVS-1305"
+    ],
+    "scores": [
+      8.594352874741649,
+      6.588683659267431,
+      6.200145543684927,
+      6.200145543684927,
+      5.502401529745535,
+      3.4912007058263246,
+      2.4677991766585547,
+      2.4677991766585547,
+      2.3942073310567222,
+      2.303155505762018,
+      2.303155505762018,
+      2.159106803065048,
+      2.159106803065048,
+      2.159106803065048
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "furnace blower squealing loud, bearings shot in the motor",
+    "codes": [
+      "RVS-0403",
+      "RVS-0502",
+      "RVS-0401",
+      "RVS-0402",
+      "RVS-0404",
+      "RVS-1301",
+      "RVS-1203",
+      "RVS-0405",
+      "RVS-1001"
+    ],
+    "scores": [
+      10.572311921592137,
+      4.587886801213916,
+      3.93088903397201,
+      3.732346367026372,
+      3.732346367026372,
+      3.4912007058263246,
+      3.3250032188533547,
+      2.8446069044501145,
+      2.659502467164076
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "heater will not come on at all, sail switch stuck open",
+    "codes": [
+      "RVS-0402",
+      "RVS-1306",
+      "RVS-0301",
+      "RVS-0302",
+      "RVS-0303",
+      "RVS-0304",
+      "RVS-0306",
+      "RVS-0305"
+    ],
+    "scores": [
+      7.450283928851148,
+      3.4599383770899435,
+      3.319568201863249,
+      3.319568201863249,
+      3.319568201863249,
+      3.167285432168555,
+      3.167285432168555,
+      3.028361554970033
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "thermostat display blank, t-stat dead",
+    "codes": [
+      "RVS-0405"
+    ],
+    "scores": [
+      4.297561592877459
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "roof a/c hums but compressor won't kick on, start cap swollen",
+    "codes": [
+      "RVS-0501",
+      "RVS-0502",
+      "RVS-0504",
+      "RVS-0503",
+      "RVS-0505",
+      "RVS-0901",
+      "RVS-0903",
+      "RVS-0904",
+      "RVS-0902",
+      "RVS-0106",
+      "RVS-0906",
+      "RVS-0905"
+    ],
+    "scores": [
+      10.687172098023133,
+      5.101250968701013,
+      5.101250968701013,
+      3.286891510562768,
+      3.286891510562768,
+      2.930422945889326,
+      2.930422945889326,
+      2.930422945889326,
+      2.789528501061417,
+      2.7637866069144215,
+      2.661560915986501,
+      2.2334211579289156
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "AC blowing warm, coils packed with dirt and cottonwood",
+    "codes": [
+      "RVS-0503",
+      "RVS-0501",
+      "RVS-0502",
+      "RVS-0504",
+      "RVS-0505",
+      "RVS-0106"
+    ],
+    "scores": [
+      6.778092216389092,
+      3.286891510562768,
+      3.286891510562768,
+      3.286891510562768,
+      3.286891510562768,
+      2.7637866069144215
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "water dripping inside from the roof air unit when it rains, gasket flattened",
+    "codes": [
+      "RVS-0504",
+      "RVS-0501",
+      "RVS-0502",
+      "RVS-0604",
+      "RVS-0906",
+      "RVS-0104",
+      "RVS-0503",
+      "RVS-0505",
+      "RVS-0901",
+      "RVS-0903",
+      "RVS-0904",
+      "RVS-0902",
+      "RVS-0106",
+      "RVS-0905",
+      "RVS-0301",
+      "RVS-0302",
+      "RVS-0303",
+      "RVS-0701",
+      "RVS-0702",
+      "RVS-0304",
+      "RVS-0306",
+      "RVS-0705",
+      "RVS-0305",
+      "RVS-0704",
+      "RVS-0703",
+      "RVS-0204",
+      "RVS-0201",
+      "RVS-1401",
+      "RVS-0706"
+    ],
+    "scores": [
+      8.472845596133125,
+      4.9816448903068,
+      4.9816448903068,
+      4.297561592877459,
+      4.294444697281112,
+      4.028903574346457,
+      3.167285432168555,
+      3.167285432168555,
+      2.930422945889326,
+      2.930422945889326,
+      2.930422945889326,
+      2.789528501061417,
+      2.303155505762018,
+      2.2334211579289156,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.0980433279837376,
+      2.0980433279837376,
+      2.0980433279837376,
+      2.006018684200866,
+      2.006018684200866,
+      1.7605512354894532,
+      1.6328837812946115,
+      1.5367680629833365,
+      1.5256345364694808,
+      1.4302151541401882
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "fridge not cooling on LP, flame yellow and sooty, burner rusted out",
+    "codes": [
+      "RVS-0205",
+      "RVS-0604",
+      "RVS-0601",
+      "RVS-0202",
+      "RVS-0203",
+      "RVS-0204",
+      "RVS-0201",
+      "RVS-0106",
+      "RVS-0306",
+      "RVS-0602",
+      "RVS-0603",
+      "RVS-0101",
+      "RVS-0303"
+    ],
+    "scores": [
+      6.58808975329497,
+      6.270911464389238,
+      5.894643230528175,
+      4.967913576370548,
+      4.462749514007584,
+      4.462749514007584,
+      4.24757130554631,
+      3.229102350857363,
+      2.7214729688243526,
+      2.544593006444738,
+      2.544593006444738,
+      2.4677991766585547,
+      1.3818933034572107
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "reefer door not sealing, dollar bill slides right out, gasket torn",
+    "codes": [
+      "RVS-0603",
+      "RVS-1003",
+      "RVS-1001",
+      "RVS-1002",
+      "RVS-0504",
+      "RVS-1404",
+      "RVS-1405",
+      "RVS-0105",
+      "RVS-0706",
+      "RVS-0601",
+      "RVS-0602",
+      "RVS-0604"
+    ],
+    "scores": [
+      9.24469345461161,
+      7.119534264112833,
+      4.2164933200370935,
+      4.2164933200370935,
+      3.4912007058263246,
+      3.1105681026196614,
+      3.1105681026196614,
+      2.9254527138804836,
+      2.7214729688243526,
+      2.544593006444738,
+      2.544593006444738,
+      2.544593006444738
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "fridge dead on both gas and electric, no lights on the panel, board has a burnt trace",
+    "codes": [
+      "RVS-0602",
+      "RVS-0202",
+      "RVS-1106",
+      "RVS-0203",
+      "RVS-0204",
+      "RVS-0201",
+      "RVS-1401",
+      "RVS-0205",
+      "RVS-0404",
+      "RVS-1303",
+      "RVS-0302",
+      "RVS-1302",
+      "RVS-0304",
+      "RVS-0601",
+      "RVS-0603",
+      "RVS-0604",
+      "RVS-0303",
+      "RVS-0101"
+    ],
+    "scores": [
+      5.894643230528175,
+      4.560139618883804,
+      4.297561592877459,
+      4.059478062366181,
+      4.059478062366181,
+      3.849033183942481,
+      3.724122454678725,
+      3.6850488092192286,
+      3.1105681026196614,
+      3.1105681026196614,
+      2.9030409440757405,
+      2.9030409440757405,
+      2.7214729688243526,
+      2.544593006444738,
+      2.544593006444738,
+      2.544593006444738,
+      2.303155505762018,
+      1.4806795059951328
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "strong gas smell at the bottles, regulator hissing",
+    "codes": [
+      "RVS-0202",
+      "RVS-0203",
+      "RVS-0204",
+      "RVS-0201",
+      "RVS-0205",
+      "RVS-0303",
+      "RVS-0101"
+    ],
+    "scores": [
+      8.550485170645008,
+      4.059478062366181,
+      4.059478062366181,
+      3.849033183942481,
+      3.6850488092192286,
+      2.303155505762018,
+      1.4806795059951328
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "propane hose from tank to regulator cracked and dry rotted",
+    "codes": [
+      "RVS-0203",
+      "RVS-0202",
+      "RVS-0801",
+      "RVS-0802",
+      "RVS-0803",
+      "RVS-1402",
+      "RVS-0305",
+      "RVS-0204",
+      "RVS-0201",
+      "RVS-0101",
+      "RVS-0205",
+      "RVS-0303"
+    ],
+    "scores": [
+      7.486292388623252,
+      6.082685993986453,
+      2.659502467164076,
+      2.659502467164076,
+      2.659502467164076,
+      2.3942073310567222,
+      2.3464122241102583,
+      1.9003712593011328,
+      1.8170169329820198,
+      1.4806795059951328,
+      1.3818933034572107,
+      1.3818933034572107
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "LP alarm beeping nonstop with tanks shut off, unit past its expiration date",
+    "codes": [
+      "RVS-0204",
+      "RVS-0202",
+      "RVS-0203",
+      "RVS-0604",
+      "RVS-0201",
+      "RVS-0205",
+      "RVS-0801",
+      "RVS-0802",
+      "RVS-0803",
+      "RVS-0101",
+      "RVS-0305",
+      "RVS-0303"
+    ],
+    "scores": [
+      10.048670643329704,
+      4.967913576370548,
+      4.462749514007584,
+      4.297561592877459,
+      4.24757130554631,
+      3.6850488092192286,
+      2.659502467164076,
+      2.659502467164076,
+      2.659502467164076,
+      2.4677991766585547,
+      2.3464122241102583,
+      1.3818933034572107
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "water pump runs constantly and won't build pressure, diaphragm gone",
+    "codes": [
+      "RVS-0701",
+      "RVS-0705",
+      "RVS-1303",
+      "RVS-1306",
+      "RVS-1302",
+      "RVS-1304",
+      "RVS-0301",
+      "RVS-0302",
+      "RVS-0303",
+      "RVS-0702",
+      "RVS-1301",
+      "RVS-1305",
+      "RVS-0304",
+      "RVS-0306",
+      "RVS-0305",
+      "RVS-0704",
+      "RVS-0703",
+      "RVS-0104",
+      "RVS-1401",
+      "RVS-0706"
+    ],
+    "scores": [
+      5.923039497951863,
+      5.589244033810062,
+      2.4677991766585547,
+      2.4677991766585547,
+      2.303155505762018,
+      2.303155505762018,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.159106803065048,
+      2.159106803065048,
+      2.0980433279837376,
+      2.0980433279837376,
+      2.006018684200866,
+      2.006018684200866,
+      1.7605512354894532,
+      1.634696243289735,
+      1.5256345364694808,
+      1.4302151541401882
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "puddle under kitchen sink, pex elbow split from freezing",
+    "codes": [
+      "RVS-0505"
+    ],
+    "scores": [
+      3.4912007058263246
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "bathroom tap drips constantly, handle stripped",
+    "codes": [
+      "RVS-0703",
+      "RVS-0104",
+      "RVS-1405",
+      "RVS-0204",
+      "RVS-0906",
+      "RVS-0201"
+    ],
+    "scores": [
+      2.578536955726475,
+      2.3942073310567222,
+      2.3942073310567222,
+      1.6328837812946115,
+      1.6328837812946115,
+      1.5367680629833365
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "water runs back out the city fill when the pump is on",
+    "codes": [
+      "RVS-0701",
+      "RVS-0704",
+      "RVS-1303",
+      "RVS-1306",
+      "RVS-1302",
+      "RVS-1304",
+      "RVS-0301",
+      "RVS-0302",
+      "RVS-0303",
+      "RVS-0702",
+      "RVS-1301",
+      "RVS-1305",
+      "RVS-0304",
+      "RVS-0306",
+      "RVS-0705",
+      "RVS-0305",
+      "RVS-0703",
+      "RVS-0104",
+      "RVS-1401",
+      "RVS-0706"
+    ],
+    "scores": [
+      5.923039497951863,
+      5.2917183816558016,
+      2.4677991766585547,
+      2.4677991766585547,
+      2.303155505762018,
+      2.303155505762018,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.159106803065048,
+      2.159106803065048,
+      2.0980433279837376,
+      2.0980433279837376,
+      2.0980433279837376,
+      2.006018684200866,
+      1.7605512354894532,
+      1.634696243289735,
+      1.5256345364694808,
+      1.4302151541401882
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "toilet rocks and leaks at the base when flushed",
+    "codes": [
+      "RVS-0706",
+      "RVS-0305",
+      "RVS-0204",
+      "RVS-0906",
+      "RVS-0201",
+      "RVS-0104"
+    ],
+    "scores": [
+      3.4912007058263246,
+      3.285699697454936,
+      2.7214729688243526,
+      2.7214729688243526,
+      2.5612801049722274,
+      2.3942073310567222
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "black tank handle pulls but valve won't close all the way, drips at the cap",
+    "codes": [
+      "RVS-0801",
+      "RVS-0205",
+      "RVS-0303",
+      "RVS-0802",
+      "RVS-0803",
+      "RVS-0104",
+      "RVS-1405",
+      "RVS-0305",
+      "RVS-0704",
+      "RVS-0204",
+      "RVS-0906",
+      "RVS-0201"
+    ],
+    "scores": [
+      5.319004934328152,
+      2.659502467164076,
+      2.659502467164076,
+      2.659502467164076,
+      2.659502467164076,
+      2.3942073310567222,
+      2.3942073310567222,
+      2.3464122241102583,
+      2.3464122241102583,
+      1.6328837812946115,
+      1.6328837812946115,
+      1.5367680629833365
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "black tank will not drain, backed up solid",
+    "codes": [
+      "RVS-0803",
+      "RVS-0801",
+      "RVS-0802",
+      "RVS-0305"
+    ],
+    "scores": [
+      8.618098394650035,
+      2.659502467164076,
+      2.659502467164076,
+      2.3464122241102583
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "water stain on ceiling near roof vent, sealant around the vent cracked and lifting",
+    "codes": [
+      "RVS-0901",
+      "RVS-0904",
+      "RVS-1401",
+      "RVS-0905",
+      "RVS-0902",
+      "RVS-0903",
+      "RVS-0906",
+      "RVS-0301",
+      "RVS-0302",
+      "RVS-0303",
+      "RVS-0701",
+      "RVS-0702",
+      "RVS-0304",
+      "RVS-0306",
+      "RVS-0705",
+      "RVS-0305",
+      "RVS-0704",
+      "RVS-0501",
+      "RVS-0502",
+      "RVS-0504",
+      "RVS-0703",
+      "RVS-0104",
+      "RVS-0706"
+    ],
+    "scores": [
+      10.72450136120962,
+      8.858160499637824,
+      8.399611185837129,
+      6.901245917674398,
+      6.834508573268879,
+      5.398222122547881,
+      4.820667719051549,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.0980433279837376,
+      2.0980433279837376,
+      2.0980433279837376,
+      2.006018684200866,
+      2.006018684200866,
+      1.8143594581382447,
+      1.8143594581382447,
+      1.8143594581382447,
+      1.7605512354894532,
+      1.634696243289735,
+      1.4302151541401882
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "front cap seam sealant split open about 3 ft, daylight visible",
+    "codes": [
+      "RVS-0902",
+      "RVS-0906",
+      "RVS-0905",
+      "RVS-0901",
+      "RVS-0505",
+      "RVS-0903",
+      "RVS-0904"
+    ],
+    "scores": [
+      7.646494668532698,
+      5.1862479735535505,
+      4.667824759745483,
+      4.334140038230351,
+      3.4912007058263246,
+      2.4677991766585547,
+      2.4677991766585547
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "branch tore a 6 inch gash in the rubber roof",
+    "codes": [
+      "RVS-0903",
+      "RVS-0901",
+      "RVS-0904",
+      "RVS-0902",
+      "RVS-0906",
+      "RVS-0905",
+      "RVS-0501",
+      "RVS-0502",
+      "RVS-0504"
+    ],
+    "scores": [
+      5.324630276946048,
+      2.930422945889326,
+      2.930422945889326,
+      2.789528501061417,
+      2.661560915986501,
+      2.2334211579289156,
+      1.8143594581382447,
+      1.8143594581382447,
+      1.8143594581382447
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "rear window leaking at top corner, old caulk dried out",
+    "codes": [
+      "RVS-0905",
+      "RVS-0906",
+      "RVS-0204",
+      "RVS-0201",
+      "RVS-0104",
+      "RVS-0902",
+      "RVS-0901",
+      "RVS-0903",
+      "RVS-0904"
+    ],
+    "scores": [
+      6.307591727327521,
+      4.0169370506633815,
+      2.7214729688243526,
+      2.5612801049722274,
+      2.3942073310567222,
+      2.114236811913317,
+      1.8663408615717965,
+      1.4806795059951328,
+      1.4806795059951328
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "bedroom slide goes out crooked, one side lags behind",
+    "codes": [
+      "RVS-1001",
+      "RVS-1002",
+      "RVS-1003",
+      "RVS-0105"
+    ],
+    "scores": [
+      4.2164933200370935,
+      4.2164933200370935,
+      4.2164933200370935,
+      2.9254527138804836
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "main slide won't move, motor hums then nothing, gearbox motor burnt",
+    "codes": [
+      "RVS-1001",
+      "RVS-1002",
+      "RVS-1003",
+      "RVS-1203",
+      "RVS-0403",
+      "RVS-0105",
+      "RVS-0502"
+    ],
+    "scores": [
+      6.492678212652343,
+      3.8331757454882665,
+      3.8331757454882665,
+      3.3250032188533547,
+      2.8496200028045613,
+      2.659502467164076,
+      2.493166377718121
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "coach batteries won't hold charge, load test failed",
+    "codes": [
+      "RVS-1101",
+      "RVS-0802",
+      "RVS-0505",
+      "RVS-0705",
+      "RVS-0906",
+      "RVS-0201"
+    ],
+    "scores": [
+      4.6560284497178746,
+      3.724122454678725,
+      2.493166377718121,
+      2.493166377718121,
+      2.493166377718121,
+      2.3464122241102583
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "batteries not charging when plugged in, converter output 0 volts",
+    "codes": [
+      "RVS-1102",
+      "RVS-1101",
+      "RVS-0102",
+      "RVS-0103",
+      "RVS-0803"
+    ],
+    "scores": [
+      6.8760985486039345,
+      4.6560284497178746,
+      3.229102350857363,
+      3.0271411704885023,
+      2.234473472807235
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "shore cord plug-in on side of coach melted and burnt",
+    "codes": [
+      "RVS-1105",
+      "RVS-0103",
+      "RVS-0803"
+    ],
+    "scores": [
+      7.972139667161262,
+      6.476309654076215,
+      2.234473472807235
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "power awning won't extend, motor dead, tested with direct 12v",
+    "codes": [
+      "RVS-1203",
+      "RVS-1201",
+      "RVS-1202",
+      "RVS-1102",
+      "RVS-1105",
+      "RVS-0403",
+      "RVS-0103",
+      "RVS-1001",
+      "RVS-0502",
+      "RVS-0505",
+      "RVS-0705",
+      "RVS-0906",
+      "RVS-0201"
+    ],
+    "scores": [
+      8.214445923541131,
+      4.889442704687776,
+      4.889442704687776,
+      3.3500502240834367,
+      3.3500502240834367,
+      2.8496200028045613,
+      2.7214729688243526,
+      2.659502467164076,
+      2.493166377718121,
+      2.493166377718121,
+      2.493166377718121,
+      2.493166377718121,
+      2.3464122241102583
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "wheel bearings dry and noisy on curb side rear",
+    "codes": [
+      "RVS-1301",
+      "RVS-1305"
+    ],
+    "scores": [
+      6.518341876314826,
+      3.0271411704885023
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "trailer brakes weak, magnets worn through on left front",
+    "codes": [
+      "RVS-1303",
+      "RVS-1302"
+    ],
+    "scores": [
+      3.4599383770899435,
+      3.229102350857363
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "floor soft and spongy in front of the shower",
+    "codes": [
+      "RVS-1402",
+      "RVS-0706"
+    ],
+    "scores": [
+      3.990345551761204,
+      3.4912007058263246
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "sidewall bubbling below the window, fiberglass skin letting go",
+    "codes": [
+      "RVS-1403",
+      "RVS-0905"
+    ],
+    "scores": [
+      6.3845528828179265,
+      4.297561592877459
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "bm25",
+    "finding": "ceiling panel sagging and brown above the bed after rain",
+    "codes": [
+      "RVS-1401"
+    ],
+    "scores": [
+      7.44824490935745
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "W/H won't light on propane, no spark at the electrode, swapped electrode and it fires",
+    "codes": [
+      "RVS-0301",
+      "RVS-0303",
+      "RVS-1106",
+      "RVS-0302",
+      "RVS-0304",
+      "RVS-0306",
+      "RVS-0305",
+      "RVS-0401",
+      "RVS-0202",
+      "RVS-0203",
+      "RVS-0204",
+      "RVS-0201",
+      "RVS-0101",
+      "RVS-0205"
+    ],
+    "scores": [
+      8.972675012274975,
+      4.6929844505390435,
+      4.297561592877459,
+      3.3110911470818327,
+      3.1591972560913755,
+      3.1591972560913755,
+      3.020628143502539,
+      2.2357910747667002,
+      2.092340442225249,
+      1.9003712593011328,
+      1.9003712593011328,
+      1.8170169329820198,
+      1.4806795059951328,
+      1.3818933034572107
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "water heater tank full of scale, anode eaten away down to the wire",
+    "codes": [
+      "RVS-0305",
+      "RVS-0301",
+      "RVS-0302",
+      "RVS-0303",
+      "RVS-0304",
+      "RVS-0306",
+      "RVS-0801",
+      "RVS-0802",
+      "RVS-0803",
+      "RVS-0701",
+      "RVS-0702",
+      "RVS-0705",
+      "RVS-0704",
+      "RVS-0703",
+      "RVS-0104",
+      "RVS-1401",
+      "RVS-0706"
+    ],
+    "scores": [
+      12.02731474596481,
+      6.111141193801977,
+      6.111141193801977,
+      6.111141193801977,
+      5.857984708817882,
+      5.857984708817882,
+      2.659502467164076,
+      2.659502467164076,
+      2.659502467164076,
+      2.198917043273138,
+      2.198917043273138,
+      2.0980433279837376,
+      2.006018684200866,
+      1.7605512354894532,
+      1.634696243289735,
+      1.5256345364694808,
+      1.4302151541401882
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "furnace fan runs but no heat, clicks 3 times then locks out, bad ignitor",
+    "codes": [
+      "RVS-0403",
+      "RVS-0401",
+      "RVS-0402",
+      "RVS-0404",
+      "RVS-0405",
+      "RVS-0502",
+      "RVS-1303",
+      "RVS-1306",
+      "RVS-1405",
+      "RVS-1302",
+      "RVS-1304",
+      "RVS-0304",
+      "RVS-1301",
+      "RVS-1305",
+      "RVS-0301"
+    ],
+    "scores": [
+      8.594352874741649,
+      8.265526965342456,
+      6.200145543684927,
+      6.200145543684927,
+      5.502401529745535,
+      3.4912007058263246,
+      2.4677991766585547,
+      2.4677991766585547,
+      2.3942073310567222,
+      2.303155505762018,
+      2.303155505762018,
+      2.159106803065048,
+      2.159106803065048,
+      2.159106803065048,
+      1.4530960578858134
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "furnace blower squealing loud, bearings shot in the motor",
+    "codes": [
+      "RVS-0403",
+      "RVS-0502",
+      "RVS-0401",
+      "RVS-0402",
+      "RVS-0404",
+      "RVS-1301",
+      "RVS-1203",
+      "RVS-0405",
+      "RVS-1001",
+      "RVS-0603",
+      "RVS-1003",
+      "RVS-0706"
+    ],
+    "scores": [
+      11.530328514154956,
+      4.587886801213916,
+      3.93088903397201,
+      3.732346367026372,
+      3.732346367026372,
+      3.4912007058263246,
+      3.3250032188533547,
+      2.8446069044501145,
+      2.659502467164076,
+      1.5075226008375466,
+      1.3063684248340832,
+      1.2246628359709588
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "heater will not come on at all, sail switch stuck open",
+    "codes": [
+      "RVS-0402",
+      "RVS-1306",
+      "RVS-0301",
+      "RVS-0302",
+      "RVS-0303",
+      "RVS-0304",
+      "RVS-0306",
+      "RVS-0305"
+    ],
+    "scores": [
+      8.526569125468608,
+      3.4599383770899435,
+      3.319568201863249,
+      3.319568201863249,
+      3.319568201863249,
+      3.167285432168555,
+      3.167285432168555,
+      3.028361554970033
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "thermostat display blank, t-stat dead",
+    "codes": [
+      "RVS-0405"
+    ],
+    "scores": [
+      4.297561592877459
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "roof a/c hums but compressor won't kick on, start cap swollen",
+    "codes": [
+      "RVS-0501",
+      "RVS-0502",
+      "RVS-0504",
+      "RVS-0503",
+      "RVS-0505",
+      "RVS-0901",
+      "RVS-0903",
+      "RVS-0904",
+      "RVS-0902",
+      "RVS-0106",
+      "RVS-0906",
+      "RVS-0905"
+    ],
+    "scores": [
+      10.687172098023133,
+      5.101250968701013,
+      5.101250968701013,
+      3.286891510562768,
+      3.286891510562768,
+      2.930422945889326,
+      2.930422945889326,
+      2.930422945889326,
+      2.789528501061417,
+      2.7637866069144215,
+      2.661560915986501,
+      2.2334211579289156
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "AC blowing warm, coils packed with dirt and cottonwood",
+    "codes": [
+      "RVS-0503",
+      "RVS-0501",
+      "RVS-0502",
+      "RVS-0504",
+      "RVS-0505",
+      "RVS-0106"
+    ],
+    "scores": [
+      6.778092216389092,
+      3.286891510562768,
+      3.286891510562768,
+      3.286891510562768,
+      3.286891510562768,
+      2.7637866069144215
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "water dripping inside from the roof air unit when it rains, gasket flattened",
+    "codes": [
+      "RVS-0504",
+      "RVS-0501",
+      "RVS-0502",
+      "RVS-0604",
+      "RVS-0906",
+      "RVS-0104",
+      "RVS-0503",
+      "RVS-0505",
+      "RVS-0901",
+      "RVS-0903",
+      "RVS-0904",
+      "RVS-0902",
+      "RVS-0106",
+      "RVS-0905",
+      "RVS-0301",
+      "RVS-0302",
+      "RVS-0303",
+      "RVS-0701",
+      "RVS-0702",
+      "RVS-0304",
+      "RVS-0306",
+      "RVS-0705",
+      "RVS-0305",
+      "RVS-0704",
+      "RVS-0703",
+      "RVS-0204",
+      "RVS-0201",
+      "RVS-1401",
+      "RVS-0706"
+    ],
+    "scores": [
+      9.128930072421719,
+      5.637729366595394,
+      5.637729366595394,
+      4.297561592877459,
+      4.294444697281112,
+      4.028903574346457,
+      3.167285432168555,
+      3.167285432168555,
+      2.930422945889326,
+      2.930422945889326,
+      2.930422945889326,
+      2.789528501061417,
+      2.303155505762018,
+      2.2334211579289156,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.0980433279837376,
+      2.0980433279837376,
+      2.0980433279837376,
+      2.006018684200866,
+      2.006018684200866,
+      1.7605512354894532,
+      1.6328837812946115,
+      1.5367680629833365,
+      1.5256345364694808,
+      1.4302151541401882
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "fridge not cooling on LP, flame yellow and sooty, burner rusted out",
+    "codes": [
+      "RVS-0205",
+      "RVS-0604",
+      "RVS-0601",
+      "RVS-0202",
+      "RVS-0203",
+      "RVS-0204",
+      "RVS-0201",
+      "RVS-0106",
+      "RVS-0306",
+      "RVS-0602",
+      "RVS-0603",
+      "RVS-0101",
+      "RVS-0303"
+    ],
+    "scores": [
+      6.58808975329497,
+      6.270911464389238,
+      5.894643230528175,
+      4.967913576370548,
+      4.462749514007584,
+      4.462749514007584,
+      4.24757130554631,
+      3.229102350857363,
+      2.7214729688243526,
+      2.544593006444738,
+      2.544593006444738,
+      2.4677991766585547,
+      1.3818933034572107
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "reefer door not sealing, dollar bill slides right out, gasket torn",
+    "codes": [
+      "RVS-0603",
+      "RVS-1003",
+      "RVS-1001",
+      "RVS-1002",
+      "RVS-0504",
+      "RVS-1404",
+      "RVS-1405",
+      "RVS-0105",
+      "RVS-0706",
+      "RVS-0601",
+      "RVS-0602",
+      "RVS-0604",
+      "RVS-1106"
+    ],
+    "scores": [
+      9.24469345461161,
+      7.119534264112833,
+      4.2164933200370935,
+      4.2164933200370935,
+      3.4912007058263246,
+      3.1105681026196614,
+      3.1105681026196614,
+      2.9254527138804836,
+      2.7214729688243526,
+      2.544593006444738,
+      2.544593006444738,
+      2.544593006444738,
+      1.9339027167948561
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "fridge dead on both gas and electric, no lights on the panel, board has a burnt trace",
+    "codes": [
+      "RVS-0602",
+      "RVS-0202",
+      "RVS-1106",
+      "RVS-0203",
+      "RVS-0204",
+      "RVS-0201",
+      "RVS-1401",
+      "RVS-0205",
+      "RVS-0404",
+      "RVS-1303",
+      "RVS-0302",
+      "RVS-1302",
+      "RVS-0304",
+      "RVS-0601",
+      "RVS-0603",
+      "RVS-0604",
+      "RVS-0303",
+      "RVS-0101"
+    ],
+    "scores": [
+      5.894643230528175,
+      4.560139618883804,
+      4.297561592877459,
+      4.059478062366181,
+      4.059478062366181,
+      3.849033183942481,
+      3.724122454678725,
+      3.6850488092192286,
+      3.1105681026196614,
+      3.1105681026196614,
+      2.9030409440757405,
+      2.9030409440757405,
+      2.7214729688243526,
+      2.544593006444738,
+      2.544593006444738,
+      2.544593006444738,
+      2.303155505762018,
+      1.4806795059951328
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "strong gas smell at the bottles, regulator hissing",
+    "codes": [
+      "RVS-0202",
+      "RVS-0203",
+      "RVS-0204",
+      "RVS-0201",
+      "RVS-0205",
+      "RVS-0303",
+      "RVS-0101"
+    ],
+    "scores": [
+      8.550485170645008,
+      4.059478062366181,
+      4.059478062366181,
+      3.849033183942481,
+      3.6850488092192286,
+      2.303155505762018,
+      1.4806795059951328
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "propane hose from tank to regulator cracked and dry rotted",
+    "codes": [
+      "RVS-0203",
+      "RVS-0202",
+      "RVS-0801",
+      "RVS-0802",
+      "RVS-0803",
+      "RVS-1402",
+      "RVS-0305",
+      "RVS-0204",
+      "RVS-0201",
+      "RVS-0101",
+      "RVS-0205",
+      "RVS-0303"
+    ],
+    "scores": [
+      7.486292388623252,
+      6.082685993986453,
+      2.659502467164076,
+      2.659502467164076,
+      2.659502467164076,
+      2.3942073310567222,
+      2.3464122241102583,
+      1.9003712593011328,
+      1.8170169329820198,
+      1.4806795059951328,
+      1.3818933034572107,
+      1.3818933034572107
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "LP alarm beeping nonstop with tanks shut off, unit past its expiration date",
+    "codes": [
+      "RVS-0204",
+      "RVS-0202",
+      "RVS-0203",
+      "RVS-0604",
+      "RVS-0201",
+      "RVS-0205",
+      "RVS-0801",
+      "RVS-0802",
+      "RVS-0803",
+      "RVS-0101",
+      "RVS-0305",
+      "RVS-0303"
+    ],
+    "scores": [
+      10.048670643329704,
+      4.967913576370548,
+      4.462749514007584,
+      4.297561592877459,
+      4.24757130554631,
+      3.6850488092192286,
+      2.659502467164076,
+      2.659502467164076,
+      2.659502467164076,
+      2.4677991766585547,
+      2.3464122241102583,
+      1.3818933034572107
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "water pump runs constantly and won't build pressure, diaphragm gone",
+    "codes": [
+      "RVS-0701",
+      "RVS-0705",
+      "RVS-1303",
+      "RVS-1306",
+      "RVS-1302",
+      "RVS-1304",
+      "RVS-0301",
+      "RVS-0302",
+      "RVS-0303",
+      "RVS-0702",
+      "RVS-1301",
+      "RVS-1305",
+      "RVS-0304",
+      "RVS-0306",
+      "RVS-0305",
+      "RVS-0704",
+      "RVS-0703",
+      "RVS-0104",
+      "RVS-1401",
+      "RVS-0706"
+    ],
+    "scores": [
+      6.7356460069364665,
+      5.589244033810062,
+      2.4677991766585547,
+      2.4677991766585547,
+      2.303155505762018,
+      2.303155505762018,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.159106803065048,
+      2.159106803065048,
+      2.0980433279837376,
+      2.0980433279837376,
+      2.006018684200866,
+      2.006018684200866,
+      1.7605512354894532,
+      1.634696243289735,
+      1.5256345364694808,
+      1.4302151541401882
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "puddle under kitchen sink, pex elbow split from freezing",
+    "codes": [
+      "RVS-0505"
+    ],
+    "scores": [
+      3.4912007058263246
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "bathroom tap drips constantly, handle stripped",
+    "codes": [
+      "RVS-0703",
+      "RVS-0104",
+      "RVS-1405",
+      "RVS-0204",
+      "RVS-0906",
+      "RVS-0201"
+    ],
+    "scores": [
+      2.578536955726475,
+      2.3942073310567222,
+      2.3942073310567222,
+      1.6328837812946115,
+      1.6328837812946115,
+      1.5367680629833365
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "water runs back out the city fill when the pump is on",
+    "codes": [
+      "RVS-0701",
+      "RVS-0704",
+      "RVS-1303",
+      "RVS-1306",
+      "RVS-1302",
+      "RVS-1304",
+      "RVS-0301",
+      "RVS-0302",
+      "RVS-0303",
+      "RVS-0702",
+      "RVS-1301",
+      "RVS-1305",
+      "RVS-0304",
+      "RVS-0306",
+      "RVS-0705",
+      "RVS-0305",
+      "RVS-0703",
+      "RVS-0104",
+      "RVS-1401",
+      "RVS-0706"
+    ],
+    "scores": [
+      5.923039497951863,
+      5.2917183816558016,
+      2.4677991766585547,
+      2.4677991766585547,
+      2.303155505762018,
+      2.303155505762018,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.159106803065048,
+      2.159106803065048,
+      2.0980433279837376,
+      2.0980433279837376,
+      2.0980433279837376,
+      2.006018684200866,
+      1.7605512354894532,
+      1.634696243289735,
+      1.5256345364694808,
+      1.4302151541401882
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "toilet rocks and leaks at the base when flushed",
+    "codes": [
+      "RVS-0706",
+      "RVS-0305",
+      "RVS-0204",
+      "RVS-0906",
+      "RVS-0201",
+      "RVS-0104"
+    ],
+    "scores": [
+      3.4912007058263246,
+      3.285699697454936,
+      2.7214729688243526,
+      2.7214729688243526,
+      2.5612801049722274,
+      2.3942073310567222
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "black tank handle pulls but valve won't close all the way, drips at the cap",
+    "codes": [
+      "RVS-0801",
+      "RVS-0803",
+      "RVS-0205",
+      "RVS-0303",
+      "RVS-0802",
+      "RVS-0104",
+      "RVS-1405",
+      "RVS-0305",
+      "RVS-0704",
+      "RVS-0204",
+      "RVS-0906",
+      "RVS-0201"
+    ],
+    "scores": [
+      5.319004934328152,
+      4.335357571769503,
+      2.659502467164076,
+      2.659502467164076,
+      2.659502467164076,
+      2.3942073310567222,
+      2.3942073310567222,
+      2.3464122241102583,
+      2.3464122241102583,
+      1.6328837812946115,
+      1.6328837812946115,
+      1.5367680629833365
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "black tank will not drain, backed up solid",
+    "codes": [
+      "RVS-0803",
+      "RVS-0801",
+      "RVS-0802",
+      "RVS-0305",
+      "RVS-1001",
+      "RVS-1002",
+      "RVS-1003",
+      "RVS-0105"
+    ],
+    "scores": [
+      10.293953499255462,
+      2.659502467164076,
+      2.659502467164076,
+      2.3464122241102583,
+      1.7249290854697197,
+      1.7249290854697197,
+      1.7249290854697197,
+      1.1967761102238343
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "water stain on ceiling near roof vent, sealant around the vent cracked and lifting",
+    "codes": [
+      "RVS-0901",
+      "RVS-0904",
+      "RVS-1401",
+      "RVS-0905",
+      "RVS-0902",
+      "RVS-0903",
+      "RVS-0906",
+      "RVS-0301",
+      "RVS-0302",
+      "RVS-0303",
+      "RVS-0701",
+      "RVS-0702",
+      "RVS-0304",
+      "RVS-0306",
+      "RVS-0705",
+      "RVS-0305",
+      "RVS-0704",
+      "RVS-0501",
+      "RVS-0502",
+      "RVS-0504",
+      "RVS-0703",
+      "RVS-0104",
+      "RVS-0706"
+    ],
+    "scores": [
+      11.52391255425233,
+      9.657571692680534,
+      8.399611185837129,
+      6.901245917674398,
+      6.834508573268879,
+      5.398222122547881,
+      4.820667719051549,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.198917043273138,
+      2.0980433279837376,
+      2.0980433279837376,
+      2.0980433279837376,
+      2.006018684200866,
+      2.006018684200866,
+      1.8143594581382447,
+      1.8143594581382447,
+      1.8143594581382447,
+      1.7605512354894532,
+      1.634696243289735,
+      1.4302151541401882
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "front cap seam sealant split open about 3 ft, daylight visible",
+    "codes": [
+      "RVS-0902",
+      "RVS-0906",
+      "RVS-0905",
+      "RVS-0901",
+      "RVS-0505",
+      "RVS-0903",
+      "RVS-0904"
+    ],
+    "scores": [
+      7.646494668532698,
+      5.1862479735535505,
+      4.667824759745483,
+      4.334140038230351,
+      3.4912007058263246,
+      2.4677991766585547,
+      2.4677991766585547
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "branch tore a 6 inch gash in the rubber roof",
+    "codes": [
+      "RVS-0903",
+      "RVS-0901",
+      "RVS-0904",
+      "RVS-0902",
+      "RVS-0906",
+      "RVS-0905",
+      "RVS-0501",
+      "RVS-0502",
+      "RVS-0504"
+    ],
+    "scores": [
+      5.324630276946048,
+      2.930422945889326,
+      2.930422945889326,
+      2.789528501061417,
+      2.661560915986501,
+      2.2334211579289156,
+      1.8143594581382447,
+      1.8143594581382447,
+      1.8143594581382447
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "rear window leaking at top corner, old caulk dried out",
+    "codes": [
+      "RVS-0905",
+      "RVS-0906",
+      "RVS-0204",
+      "RVS-0201",
+      "RVS-0104",
+      "RVS-0902",
+      "RVS-0901",
+      "RVS-0903",
+      "RVS-0904"
+    ],
+    "scores": [
+      6.307591727327521,
+      4.0169370506633815,
+      2.7214729688243526,
+      2.5612801049722274,
+      2.3942073310567222,
+      2.114236811913317,
+      1.8663408615717965,
+      1.4806795059951328,
+      1.4806795059951328
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "bedroom slide goes out crooked, one side lags behind",
+    "codes": [
+      "RVS-1001",
+      "RVS-1002",
+      "RVS-1003",
+      "RVS-0105"
+    ],
+    "scores": [
+      4.2164933200370935,
+      4.2164933200370935,
+      4.2164933200370935,
+      2.9254527138804836
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "main slide won't move, motor hums then nothing, gearbox motor burnt",
+    "codes": [
+      "RVS-1001",
+      "RVS-1002",
+      "RVS-1003",
+      "RVS-1203",
+      "RVS-0403",
+      "RVS-0105",
+      "RVS-0502"
+    ],
+    "scores": [
+      6.492678212652343,
+      3.8331757454882665,
+      3.8331757454882665,
+      3.3250032188533547,
+      2.8496200028045613,
+      2.659502467164076,
+      2.493166377718121
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "coach batteries won't hold charge, load test failed",
+    "codes": [
+      "RVS-1101",
+      "RVS-0802",
+      "RVS-0505",
+      "RVS-0705",
+      "RVS-0906",
+      "RVS-0201",
+      "RVS-1102"
+    ],
+    "scores": [
+      4.6560284497178746,
+      3.724122454678725,
+      2.493166377718121,
+      2.493166377718121,
+      2.493166377718121,
+      2.3464122241102583,
+      1.9339027167948561
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "batteries not charging when plugged in, converter output 0 volts",
+    "codes": [
+      "RVS-1102",
+      "RVS-1101",
+      "RVS-0102",
+      "RVS-0103",
+      "RVS-0803"
+    ],
+    "scores": [
+      8.81000126539879,
+      4.6560284497178746,
+      3.229102350857363,
+      3.0271411704885023,
+      2.234473472807235
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "shore cord plug-in on side of coach melted and burnt",
+    "codes": [
+      "RVS-1105",
+      "RVS-0103",
+      "RVS-0803"
+    ],
+    "scores": [
+      7.972139667161262,
+      6.476309654076215,
+      2.234473472807235
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "power awning won't extend, motor dead, tested with direct 12v",
+    "codes": [
+      "RVS-1203",
+      "RVS-1201",
+      "RVS-1202",
+      "RVS-1102",
+      "RVS-1105",
+      "RVS-0403",
+      "RVS-0103",
+      "RVS-1001",
+      "RVS-0502",
+      "RVS-0505",
+      "RVS-0705",
+      "RVS-0906",
+      "RVS-0201"
+    ],
+    "scores": [
+      8.214445923541131,
+      4.889442704687776,
+      4.889442704687776,
+      3.3500502240834367,
+      3.3500502240834367,
+      2.8496200028045613,
+      2.7214729688243526,
+      2.659502467164076,
+      2.493166377718121,
+      2.493166377718121,
+      2.493166377718121,
+      2.493166377718121,
+      2.3464122241102583
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "wheel bearings dry and noisy on curb side rear",
+    "codes": [
+      "RVS-1301",
+      "RVS-1305"
+    ],
+    "scores": [
+      7.594627072932286,
+      3.0271411704885023
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "trailer brakes weak, magnets worn through on left front",
+    "codes": [
+      "RVS-1303",
+      "RVS-1302"
+    ],
+    "scores": [
+      3.4599383770899435,
+      3.229102350857363
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "floor soft and spongy in front of the shower",
+    "codes": [
+      "RVS-1402",
+      "RVS-0706",
+      "RVS-1105",
+      "RVS-0103"
+    ],
+    "scores": [
+      3.990345551761204,
+      3.4912007058263246,
+      1.6768433060750252,
+      1.362213526719826
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "sidewall bubbling below the window, fiberglass skin letting go",
+    "codes": [
+      "RVS-1403",
+      "RVS-0905",
+      "RVS-1103"
+    ],
+    "scores": [
+      6.3845528828179265,
+      4.297561592877459,
+      1.7956554982925417
+    ]
+  },
+  {
+    "domain": "rv_service",
+    "strategy": "hybrid",
+    "finding": "ceiling panel sagging and brown above the bed after rain",
+    "codes": [
+      "RVS-1401",
+      "RVS-1103",
+      "RVS-0301",
+      "RVS-0302",
+      "RVS-0303",
+      "RVS-0701",
+      "RVS-0702",
+      "RVS-0304",
+      "RVS-0306",
+      "RVS-0705",
+      "RVS-0305",
+      "RVS-0704",
+      "RVS-0703",
+      "RVS-0104",
+      "RVS-0706"
+    ],
+    "scores": [
+      9.287689490951074,
+      1.7956554982925417,
+      0.9895126694729122,
+      0.9895126694729122,
+      0.9895126694729122,
+      0.9895126694729122,
+      0.9895126694729122,
+      0.944119497592682,
+      0.944119497592682,
+      0.944119497592682,
+      0.9027084078903896,
+      0.9027084078903896,
+      0.7922480559702539,
+      0.7356133094803807,
+      0.6435968193630847
+    ]
+  }
+]
