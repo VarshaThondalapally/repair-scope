@@ -77,7 +77,7 @@ python -m pytest -q
 node --test tests/web-engine.test.mjs tests/draft.test.mjs
 ```
 
-GitHub Actions on Ubuntu 24.04 passed **101 Python tests, 23 Node tests, and 10 Chromium acceptance tests**. Those browser checks exercised real CSV/JSON downloads, custom uploads, companion-work decisions, approval invalidation, catalog-switch cancellation and phone-width overflow. See [the validation record](docs/VALIDATION.md) and current public runs. Public hosting is not yet verified. The restricted local Windows environment runs 99 Python tests with two HTTP tests skipped; CI supplies the missing HTTP/browser checks.
+GitHub Actions on Ubuntu 24.04 passed **101 Python tests, 23 Node tests, and 10 Chromium acceptance tests**. Those browser checks exercised real CSV/JSON downloads, custom uploads, companion-work decisions, approval invalidation, catalog-switch cancellation and phone-width overflow. See [the validation record](docs/VALIDATION.md) and the [public acceptance run](https://github.com/VarshaThondalapally/repair-scope/actions/runs/43527419217). The build passed; public hosting awaits enabling **Settings → Pages → Source → GitHub Actions**. The restricted local Windows environment runs 99 Python tests with two HTTP tests skipped; CI supplies the missing HTTP/browser checks.
 
 For browser acceptance in a development environment with network access: install npm dependencies, run npx playwright install --with-deps chromium, then npm run test:browser. The shipped browser demo itself has no runtime npm dependencies.
 

@@ -2,7 +2,9 @@
 
 Verified in GitHub Actions on 13 November 2026, Ubuntu 24.04, Python 3.12, Node 24 and Chromium through Playwright 1.56.1.
 
-The pre-publication acceptance run passed before this standalone repository was created. Current public runs: https://github.com/VarshaThondalapally/repair-scope/actions
+Public acceptance evidence: https://github.com/VarshaThondalapally/repair-scope/actions/runs/43527419217
+
+The build and all tests passed on commit 465b28b99ea679f7d0096d72b52b903f62abf776. The separate Pages deployment failed because Pages had not been enabled in repository settings; that hosting failure does not change the test results.
 
 - 101 Python tests passed, including the two actual HTTP integration tests.
 - 23 Node tests passed, including ranking/score parity on 150 development queries.
