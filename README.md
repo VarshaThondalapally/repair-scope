@@ -8,6 +8,8 @@ Built around RV inspection handoffs, with property restoration as a second domai
 
 ## Try it
 
+**[Open the live demo](https://varshathondalapally.github.io/repair-scope/)** — no account or API key required.
+
 The dependency-free browser app is in `dist/index.html` after building. Open that file directly, or serve `web/` with any static server. No API key, model download, or backend is needed for the browser demo.
 
 ```bash
@@ -77,7 +79,7 @@ python -m pytest -q
 node --test tests/web-engine.test.mjs tests/draft.test.mjs
 ```
 
-GitHub Actions on Ubuntu 24.04 passed **101 Python tests, 23 Node tests, and 10 Chromium acceptance tests**. Those browser checks exercised real CSV/JSON downloads, custom uploads, companion-work decisions, approval invalidation, catalog-switch cancellation and phone-width overflow. See [the validation record](docs/VALIDATION.md) and the [public acceptance run](https://github.com/VarshaThondalapally/repair-scope/actions/runs/43527419217). The build passed; public hosting awaits enabling **Settings → Pages → Source → GitHub Actions**. The restricted local Windows environment runs 99 Python tests with two HTTP tests skipped; CI supplies the missing HTTP/browser checks.
+GitHub Actions on Ubuntu 24.04 passed **101 Python tests, 23 Node tests, and 10 Chromium acceptance tests**. Those browser checks exercised real CSV/JSON downloads, custom uploads, companion-work decisions, approval invalidation, catalog-switch cancellation and phone-width overflow. See [the validation record](docs/VALIDATION.md) and the [public acceptance run](https://github.com/VarshaThondalapally/repair-scope/actions/runs/43527419217). The public demo is deployed and verified. The [successful deployment](https://github.com/VarshaThondalapally/repair-scope/actions/runs/43527758036) includes all acceptance checks. The restricted local Windows environment runs 99 Python tests with two HTTP tests skipped; CI supplies the missing HTTP/browser checks.
 
 For browser acceptance in a development environment with network access: install npm dependencies, run npx playwright install --with-deps chromium, then npm run test:browser. The shipped browser demo itself has no runtime npm dependencies.
 
