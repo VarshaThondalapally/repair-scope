@@ -4,7 +4,7 @@ Turn inspection notes into reviewed repair drafts.
 
 An independent work sample for **catalog-grounded, human-reviewed repair-order drafts**.
 
-Built around RV inspection handoffs, with property restoration as a second domain. It is a prototype inspired by a public product workflow, not commissioned by or affiliated with vinny. No OEM code integration, DMS integration, warranty coverage decision, or production deployment is claimed.
+Built around RV inspection handoffs, with property restoration as a second domain. It is a prototype inspired by a public product workflow, not commissioned by or affiliated with any company. No OEM code integration, DMS integration, warranty coverage decision, or production deployment is claimed.
 
 ## Try it
 
