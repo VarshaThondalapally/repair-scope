@@ -9,4 +9,4 @@
 7. Download the CSV and review record. Show the reviewer, catalog snapshot, approval time, and exact rows. This is a portable draft, not a DMS integration.
 8. End on the evaluation: original and current engines, unchanged development questions, remaining misses, and the need for independent labels from a practitioner.
 
-For outreach, describe this as an independent prototype inspired by the publicly described inspection-to-repair-order handoff. Do not imply it was commissioned, integrated, independently evaluated, or used by vinny.
+For outreach, describe this as an independent prototype inspired by the publicly described inspection-to-repair-order handoff. Do not imply it was commissioned, integrated, independently evaluated, or used by any company.

@@ -49,7 +49,7 @@ Loading a Python domain rejects rules that cannot match or be satisfied by any c
 
 ## Explaining this in an interview
 
-Be able to show how a finding earns points, why those points are not a probability, how the phrase bug caused an error, why all suggestions require approval, and how the frozen comparison exposes remaining misses. Explain that both domains and the evaluation are invented and AI-assisted. Do not describe the project as a Vinny integration or a system used by a real dealership.
+Be able to show how a finding earns points, why those points are not a probability, how the phrase bug caused an error, why all suggestions require approval, and how the frozen comparison exposes remaining misses. Explain that both domains and the evaluation are invented and AI-assisted. Do not describe the project as an integration with any company or a system used by a real dealership.
 
 Before using it in an interview, run the examples, inspect a failure from docs/EVALUATION.md, and make and explain a small change yourself. The implementation cannot substitute for that understanding.
 
